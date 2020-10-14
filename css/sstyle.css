@@ -210,3 +210,33 @@ ul{
   background-color: #fafafa;
   color: #f16c6b;
 }
+*{
+  box-sizing: border-box;
+}
+.column{
+  float: left;
+  width: 33%;
+  padding: 10%;
+  height: 300px;
+}
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+.column h2{
+  color: #fff
+}
+hr{
+  border-top: 5px solid grey;
+}
+h2{
+  text-align: center;
+  top: 20%;
+}
+.row ,.column{
+  background-image: url("https://i.pinimg.com/originals/18/b0/06/18b006449fb2f68f792eae25b8d1575a.jpg");
+}
+.column p{
+  color: #eb8f8f;
+}

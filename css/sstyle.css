@@ -114,7 +114,7 @@ ul{
   text-align: center;
 }
 .img-slide{
-  width:1300px; height:600px; overflow: hidden; position:relative;
+  width:1300px; height:600px; overflow: auto; position:relative;
 }
 .img-slide img{
   position: absolute;

@@ -71,7 +71,8 @@ ul{
 #menu-section{
   background-color: #eb8f8f;
   height: 100px;
-  /*margin-top: 20px;*/
+  margin-top: 20px;
+  width: 65%;
 
 }
 #menu-section img{

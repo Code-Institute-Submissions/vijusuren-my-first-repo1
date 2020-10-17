@@ -120,7 +120,7 @@ ul{
   position: absolute;
    animation:fling-minislide 25s infinite;
    opacity:0;
-   width: 100%;
+   width: 200%;
    height: auto;
 }
 @keyframes fling-minislide {25%{opacity:1;} 40%{opacity:0;}}

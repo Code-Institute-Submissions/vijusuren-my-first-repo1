@@ -317,7 +317,7 @@ h2{
     column-count: 3;
   }
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 568px){
   #photo{
     column-count: 1;
   }

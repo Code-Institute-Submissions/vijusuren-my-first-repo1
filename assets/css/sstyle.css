@@ -253,9 +253,17 @@ h2{
     height: 100px;
     margin: 0 auto;
   }
+  #menu{
+      clear: left;
+      float: left;
+      margin-left: 30px;
+      margin-bottom: 20px;
+      line-height: 25px;
+  }
   #welcome{
     padding: 30px 0;
     margin-top: 0;
+    text-align: center;
   }
   #left-about, #right-about{
     width: 100%;;

@@ -319,6 +319,6 @@ h2{
 }
 @media screen and (max-width: 800px){
   #photo{
-    column-count: 2;
+    column-count: 1;
   }
 }

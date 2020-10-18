@@ -284,10 +284,10 @@ h2{
     border-bottom-width: 1px;
     border-bottom-color: #fff;
     padding: 0;
-  }/*
+  }
   hr{
     display: none;
-  }*/
+  }
 }
 @media screen and (max-width: 943px){
   #menu{

@@ -248,7 +248,19 @@ h2{
 .col-md-4 p{
   color: #eb8f8f;
 }
+@media (min-width:768px) { 
+    .col-md-4 {
+        float: left;
+        width: 31.33333%;
+        height: 300px;
+        margin: 0 1%;
+    }
+    .row {
+        margin-left: -1%;
+        margin-right: -1%;
+    }
 
+}
 
 
 

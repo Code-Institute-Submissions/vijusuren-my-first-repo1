@@ -211,9 +211,9 @@ ul{
   background-color: #fafafa;
   color: #f16c6b;
 }
-/**{
+*{
   box-sizing: border-box;
-}*/
+}
 .column{
   float: left;
   width: 33.33%;

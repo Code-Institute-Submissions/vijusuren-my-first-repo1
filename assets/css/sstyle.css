@@ -247,7 +247,7 @@ h2{
 }
 .col-md-4 p{
   color: #eb8f8f;
-}
+}/*
 @media (min-width:768px) { 
     .col-md-4 {
         float: left;
@@ -260,7 +260,7 @@ h2{
         margin-right: -1%;
     }
 
-}
+}*/
 
 
 

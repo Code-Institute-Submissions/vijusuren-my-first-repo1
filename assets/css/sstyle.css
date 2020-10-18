@@ -234,9 +234,14 @@ hr{
 h2{
   text-align: center;
   top: 20%;
-}
+}/*
 .row ,.column{
   background-image: url("https://i.pinimg.com/originals/18/b0/06/18b006449fb2f68f792eae25b8d1575a.jpg");
+}*/
+#bgimage{
+    height: 600px;
+    width: 100%;
+    vertical-align: center;
 }
 .column p{
   color: #eb8f8f;

@@ -28,9 +28,6 @@ ul{
   list-style-type: none;
   letter-spacing: 4px;
 }
-#navbar, #logo{
-    position: fixed;
-}
 #logo, #menu-list{
   line-height: 75px;
 
@@ -39,6 +36,7 @@ ul{
   float: right;
   margin-right: 30px;
   font-size: 150%;
+  position: fixed;
 }
 #menu-list a{
   text-decoration: none;

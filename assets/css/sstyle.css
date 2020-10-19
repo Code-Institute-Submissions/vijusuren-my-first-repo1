@@ -28,7 +28,7 @@ ul{
   list-style-type: none;
   letter-spacing: 4px;
 }
-#navbar{
+#navbar, #logo{
     position: fixed;
 }
 #logo, #menu-list{

@@ -28,20 +28,20 @@ ul{
   list-style-type: none;
   letter-spacing: 4px;
 }
-#logo, #menu{
+#logo, #menu-list{
   line-height: 75px;
 
 }
-#menu  li{
+#menu-list  li{
   float: right;
   margin-right: 30px;
   font-size: 150%;
 }
-#menu a{
+#menu-list a{
   text-decoration: none;
   color: inherit;
 }
-#menu a:hover {
+#menu-list a:hover {
   border-bottom: 1px solid #fff;
 }
 .active{

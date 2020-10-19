@@ -30,6 +30,7 @@ ul{
 }
 #logo, #menu{
   line-height: 75px;
+  position: fixed;
 }
 #menu  li{
   float: right;

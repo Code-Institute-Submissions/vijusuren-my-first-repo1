@@ -28,6 +28,9 @@ ul{
   list-style-type: none;
   letter-spacing: 4px;
 }
+#navbar{
+    position: fixed;
+}
 #logo, #menu-list{
   line-height: 75px;
 

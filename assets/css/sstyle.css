@@ -236,7 +236,7 @@ h2{
   text-align: center;
   top: 20%;
 }
-.row:after{
+.row, .column{
   background-image: url("https://i.pinimg.com/originals/18/b0/06/18b006449fb2f68f792eae25b8d1575a.jpg");
 }
 .column p{

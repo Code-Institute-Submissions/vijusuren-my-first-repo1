@@ -116,12 +116,21 @@ h2{
         font-size: 200%;
     }
     #image{
-        height: fit-content;
-        width: fit-content;
+        height: 100%;
+        width: 100%;
     }
     #menu-section{
         width: 100%;
-        height: 100%;
+        height: 1000px;
         margin: 0 auto;
+    }
+    .right-about{
+        float: center;
+    }
+    .left-about{
+        float: center;
+    }
+    .center-about{
+        float: center;
     }
 }

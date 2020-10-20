@@ -9,21 +9,22 @@ h2{
   font-family: 'Dancing Script', cursive;
   text-transform: uppercase;
   letter-spacing: 4px;
-  color: #fff;
+  color:black;
 }
 /*Nav Bar*/
 .nav-item {
     font-family: 'Dancing Script', cursive;
     letter-spacing: 2px;
     font-weight: bold;
-    text-align: right;    
+    text-align: right;  
+    font-size: 250%;  
 }
 
 .navbar .navbar-toggler {
     border: 0;
 }
 .active span {
-    border-bottom: 2px solid #fae596;
+    border-bottom: 2px solid #fff;
 }
 /*Footer*/
 .footer-heading {
@@ -96,4 +97,10 @@ h2{
   height: 600px;
   width: 100%;
   vertical-align: center;
+}
+/*Logo*/
+#logo{
+  float: left;
+  font-size: 280%;
+  margin-left: 30px;
 }

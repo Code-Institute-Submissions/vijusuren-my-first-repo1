@@ -119,4 +119,9 @@ h2{
         height: fit-content;
         width: fit-content;
     }
+    #menu-section{
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+    }
 }

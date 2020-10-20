@@ -107,10 +107,10 @@ h2{
 /*Media Queries*/
 @media(max-width: 568px){
     #logo{
-        font-size: 150%;
+        font-size: 200%;
     }
     #image{
-        height: auto;
-        width: auto;
+        height: fit-content;
+        width: fit-content;
     }
 }

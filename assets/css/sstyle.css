@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 body{
     font-family: 'Dancing Script', cursive;
-    color:#fff;
+    color:#dbcbbd;
     padding-top: 106px;
 }
 /*Headin h2*/
@@ -10,6 +10,9 @@ h2{
   text-transform: uppercase;
   letter-spacing: 4px;
   color:black;
+}
+#welcome, #dishes{
+    text-align: center;
 }
 /*Nav Bar*/
 .nav-item {

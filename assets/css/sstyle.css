@@ -15,55 +15,72 @@ body{
 .navbar .navbar-toggler {
     border: 0;
 }
-
 .active span {
     border-bottom: 2px solid #fae596;
 }
-/*Heading*/
-.section-header {
-    font-weight: bold;
-    letter-spacing: 2px;
-    padding-top: 30px;
-    padding-bottom: 15px;
-    text-align: center;
-}
-
+/*Footer*/
 .footer-heading {
-    font-family: 'Michroma', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-weight: bold;
     letter-spacing: 2px;
     margin: 10px auto 20px;
 }
+/*Image Slide*/
+.img-slide{
+  width:100%; height:0px; overflow: hidden; position:relative;padding-bottom:50%;
+}
+.img-slide img{
+  position: absolute;
+   animation:fling-minislide 25s infinite;
+   opacity:0;
+   width: 100%;
+   height: auto;
+}
+@keyframes fling-minislide {25%{opacity:1;} 40%{opacity:0;}}
+.img-slide img:nth-child(5){animation-delay:0s;}
+.img-slide img:nth-child(4){animation-delay:5s;}
+.img-slide img:nth-child(3){animation-delay:10s;}
+.img-slide img:nth-child(2){animation-delay:15s;}
+.img-slide img:nth-child(1){animation-delay:20s;}
+/* Menu Section*/
+#menu-section{
+  background-color: #eb8f8f;
+  height: 300px;
+  margin-top: 20px;
 
-.sub-heading {
-    font-weight: bold;
-    letter-spacing: 2px;
-    color: #333d51;
-    text-transform: uppercase;
 }
-/*Hyper Link*/
-a.hyperlink {
-    text-decoration: underline;
-    color: #034e9e;    
+#menu-section img{
+  height: 60%;
+  width: 55%;
+  border-radius: 50%;
 }
- 
-a.hyperlink:visited {
-    text-decoration: underline;
-    color: #660194;
+#menu-section p{
+  font-size: 100%;
+  font-family: 'Oswald', sans-serif;
 }
-/*Divider*/
-.divider {
-    width: 75px;
-    height: 5px;
-    border: 0;
-    background-color: #333d51;
-    margin-bottom: 30px;
+#menu-section a{
+  text-decoration: none;
+  cursor: pointer;
 }
 
-.divider-light {
-    width: 75px;
-    height: 5px;
-    border: 0;
-    background-color: #f4f3ea;
-    margin-bottom: 30px;
+#left-about{
+  background-color: #eb8f8f;
+  padding-top: 30px;
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+#right-about{
+  background-color: #eb8f8f;
+  padding-top: 30px;
+  width: 33%;
+  float: right;
+  text-align: center;
+}
+#center-about{
+  background-color: #eb8f8f;
+  padding-top: 2%;
+  width: 33%;
+  margin: 0 auto;
+  text-align: center;
 }

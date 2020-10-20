@@ -7,6 +7,32 @@ body{
     color:#dbcbbd;
     padding-top: 106px;
 }
+/*--------------------- Colors*/
+
+.navy-blue {
+    background-color: #333d51;    
+}
+
+.gold-hue {
+    background-color: #fae596;    
+}
+
+.med-grey {
+    background-color: #dddfd4;
+ }
+
+ .off-white {
+    background-color: #f4f3ea;
+ }
+
+ .light-teal {
+     background-color: #3fb0ac;
+ }
+
+ .dark-blue {
+     background-color: #181739;
+ }
+
 /*Headin h2*/
 h2{
   font-family: 'Dancing Script', cursive;

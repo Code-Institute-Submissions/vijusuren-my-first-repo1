@@ -1,8 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 body{
     font-family: 'Dancing Script', cursive;
-    color:black;
+    color:#fff;
     padding-top: 106px;
+}
+/*Headin h2*/
+h2{
+  font-family: 'Dancing Script', cursive;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #fff;
 }
 /*Nav Bar*/
 .nav-item {
@@ -83,4 +90,10 @@ body{
   width: 33%;
   margin: 0 auto;
   text-align: center;
+}
+/*Image */
+#image{
+  height: 600px;
+  width: 100%;
+  vertical-align: center;
 }

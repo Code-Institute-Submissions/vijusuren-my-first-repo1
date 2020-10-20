@@ -6,6 +6,7 @@
 }
 html{
   background-color: #dbcbbd;
+  
 
 }
 body{
@@ -23,26 +24,22 @@ h2{
   font-size: 280%;
   margin-left: 30px;
 }
-ul{
-  font-size: 110%;
-  list-style-type: none;
-  letter-spacing: 4px;
+.nav-item{
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 2px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 250%;
 }
-#logo, #menu-list{
-  line-height: 75px;
-
+.nav-link{
+    display: inline;
+    color: #fff;
 }
-#menu-list  li{
-  float: right;
-  margin-right: 30px;
-  font-size: 150%;
-  position: fixed;
-}
-#menu-list a{
+.nav-item a{
   text-decoration: none;
-  color: inherit;
+  color: #fff;
 }
-#menu-list a:hover {
+.nav-item a:hover {
   border-bottom: 1px solid #fff;
 }
 .active{
@@ -53,7 +50,7 @@ ul{
   width: 100%;
   vertical-align: center;
 }
-#image-outer{
+/*#image-outer{
   height: 600px;
   width: 100%;
   overflow: hidden;
@@ -137,7 +134,69 @@ ul{
   color: #333333;
   font-size: 175%;
   margin-top: 10px;
+}*/
+#menu-section{
+  background-color: #eb8f8f;
+  height: 300px;
+  margin-top: 20px;
+
 }
+#menu-section img{
+  height: 60%;
+  width: 55%;
+  border-radius: 50%;
+}
+#menu-section p{
+  font-size: 100%;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-section a{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#left-about{
+  background-color: #eb8f8f;
+  padding-top: 30px;
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+#right-about{
+  background-color: #eb8f8f;
+  padding-top: 30px;
+  width: 33%;
+  float: right;
+  text-align: center;
+}
+#center-about{
+  background-color: #eb8f8f;
+  padding-top: 2%;
+  width: 33%;
+  margin: 0 auto;
+  text-align: center;
+}
+#welcome, #dishes{
+    text-align: center;
+    color: black;
+}
+.img-slide{
+  width:1300%; height:900%; overflow: auto; position:relative;
+}
+.img-slide img{
+  position: absolute;
+   animation:fling-minislide 25s infinite;
+   opacity:0;
+   width: 100%;
+   height: auto;
+}
+@keyframes fling-minislide {25%{opacity:1;} 40%{opacity:0;}}
+.img-slide img:nth-child(5){animation-delay:0s;}
+.img-slide img:nth-child(4){animation-delay:5s;}
+.img-slide img:nth-child(3){animation-delay:10s;}
+.img-slide img:nth-child(2){animation-delay:15s;}
+.img-slide img:nth-child(1){animation-delay:20s;}
+
 #photo{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));

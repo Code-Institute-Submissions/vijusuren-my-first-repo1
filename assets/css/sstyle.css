@@ -109,4 +109,8 @@ h2{
     #logo{
         font-size: 150%;
     }
+    #image{
+        height: auto;
+        width: auto;
+    }
 }

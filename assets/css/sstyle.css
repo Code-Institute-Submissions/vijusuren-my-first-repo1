@@ -145,6 +145,14 @@ h2{
   background-position: center;
   background-repeat: no-repeat;
 }*/
+.loading-col{
+    background-image: url("https://i.pinimg.com/originals/18/b0/06/18b006449fb2f68f792eae25b8d1575a.jpg") no-repeat;
+    -webkit-background-size: 100% auto;
+   -moz-background-size: 100% auto;
+   -o-background-size: 100% auto;
+    background-size: 100% auto;
+    height: 500px;
+}
 .column p{
   color: #eb8f8f;
 }

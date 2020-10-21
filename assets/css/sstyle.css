@@ -190,7 +190,7 @@ h2{
 	height: 400px;
 }
 .col-md-3{
-	background: #821752;
+	background: #ffc1fa;
 	padding: 4%;
 	border-top-left-radius: 0.5rem;
 	border-bottom-left-radius: 0.5rem;
@@ -205,7 +205,7 @@ h2{
 	margin-bottom: 10%;
 }
 .col-md-9{
-	background: #fff;
+	background:none;
 	padding: 3%;
 	border-top-right-radius: 0.5rem;
 	border-bottom-right-radius: 0.5rem;

@@ -77,7 +77,7 @@ h2{
 /* Menu Section*/
 .menu-section{
   background-color: #eb8f8f;
-  height: 300px;
+  height: 100%;
   margin-top: 20px;
 
 }
@@ -85,7 +85,6 @@ h2{
   height: 60%;
   width: 55%;
   border-radius: 50%;
-  position: center;
 }
 .menu-section p{
   font-size: 100%;

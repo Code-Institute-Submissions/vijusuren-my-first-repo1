@@ -116,16 +116,6 @@ h2{
   margin: 0 auto;
   text-align: center;
 }
-/*Image */
-#image{
-  height: 910%;
-  width: 1000%;
-  vertical-align: center;
-  /*display: block;*/
-  background-size: cover;
-  background-position: center center;
-  background-color: #dbcbbd;
-}
 /*Logo*/
 #logo{
   float: left;

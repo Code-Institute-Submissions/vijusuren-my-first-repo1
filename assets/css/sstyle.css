@@ -89,13 +89,14 @@ h2{
 .menu-section p{
   font-size: 100%;
   font-family: 'Oswald', sans-serif;
+  text-align: center;
 }
 .menu-section a{
   text-decoration: none;
   cursor: pointer;
 }
 
-#left-about{
+/*#left-about{
   background-color: #eb8f8f;
   padding-top: 30px;
   width: 33%;
@@ -115,7 +116,7 @@ h2{
   width: 33%;
   margin: 0 auto;
   text-align: center;
-}
+}*/
 /*Logo*/
 #logo{
   float: left;

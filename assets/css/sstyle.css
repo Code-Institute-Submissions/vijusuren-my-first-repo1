@@ -122,8 +122,8 @@ h2{
 }
 /*Image */
 #image{
-  height: 910px;
-  width: 100%;
+  height: auto;
+  width: auto;
   vertical-align: center;
   /*display: block;*/
   background-size: cover;

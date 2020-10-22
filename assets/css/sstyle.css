@@ -12,7 +12,7 @@ h2{
   font-family: 'Dancing Script', cursive;
   text-transform: uppercase;
   letter-spacing: 4px;
-  color:black;
+  
 }
 #welcome, #dishes{
     text-align: center;
@@ -41,10 +41,6 @@ h2{
 
 }
 /*--------------------- Colors*/
-
-.navy-blue {
-    background-color: #333d51;    
-}
 
 .gold-hue {
     background-color: #eb8f8f;    

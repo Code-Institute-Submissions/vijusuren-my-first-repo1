@@ -190,6 +190,7 @@ h2{
 }
 .container{
     margin: 5px;
+    align-items: stretch;
 }
 /*Form section in contact.html*/
 .form-section {

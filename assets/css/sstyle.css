@@ -32,6 +32,19 @@ h2{
 .active span {
     border-bottom: 2px solid #dbcbbd;
 }
+/*Images*/
+.collout-container{
+    background: url("https://www.elitetraveler.com/wp-content/uploads/2016/11/haveli.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+        display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
 /*Footer*/
 .footer-heading {
     font-family: 'Oswald', sans-serif;

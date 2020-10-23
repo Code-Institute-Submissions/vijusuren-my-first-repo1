@@ -192,6 +192,12 @@ h2{
     margin: 5px;
     align-items: stretch;
 }
+.thumbnail {
+  padding: 4px;
+  line-height: 1.42857143;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
 /*Form section in contact.html*/
 .form-section {
     clear: left;

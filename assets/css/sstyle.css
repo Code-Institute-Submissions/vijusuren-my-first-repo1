@@ -4,7 +4,6 @@ html{
 }
 body{
     font-family: 'Dancing Script', cursive;
-    background-color:#dbcbbd;
     padding-top: 106px;
 }
 /*Heading h2*/
@@ -31,6 +30,9 @@ h2{
 }
 .active span {
     border-bottom: 2px solid #dbcbbd;
+}
+body{
+    background-color: #dbcbbd;
 }
 
 /*Footer*/

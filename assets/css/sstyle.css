@@ -32,7 +32,7 @@ h2{
     border-bottom: 2px solid #dbcbbd;
 }
 body{
-    background-color: #dbcbbd;
+    background-color: #dbcbbd !important;
 }
 
 /*Footer*/

@@ -1,2 +1,2 @@
 # OD'S Restaurant
-![Responsive-view](assets/image/capture.png)
+![Responsive-view](assets/image/Capture.png)

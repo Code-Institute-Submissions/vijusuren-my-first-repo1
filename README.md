@@ -19,7 +19,6 @@
  
 5. [**Testing**](#testing)
   - [**Validators**](#validators)
-  - [**Manual Testing**](#manual-testing)
  
 6. [**Deployment**](#deployment)
  
@@ -103,6 +102,8 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 
 - A furter features could be adding extra dishes in menu page.
 - Implementing online orders.
+##### back to [top](#table-of-contents)
+---
 
 ## Technologies Used
 
@@ -116,6 +117,8 @@ This project consists of 4 pages accessible from both the navbar and the footer.
     * I relied on Gitpod's dev environment to write the code for my project.
 - [GitHub](https://github.com/)
     * I hosted my deployed website to GitHub, with previous versions of my code stored through the commit history.
+##### back to [top](#table-of-contents)
+---
 
 ## Testing
 
@@ -133,3 +136,44 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 #### CSS
  
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Congratulations! No Error Found.
+##### back to [top](#table-of-contents)
+---
+
+## Deployment
+### Deploying my project
+
+I created my project on GitHub and used GitPod's development environment to write my code. 
+Use the following link to view my live project: [OD'S Restaurant](https://vijusuren.github.io/my-first-repo1/)
+
+### Deploying to GitHub Pages
+To make my project viewable to others, I deployed my project to GitHub Pages with the following process:
+
+1. I opened the 'Settings' section of my project repository in GitHub.
+2. From there, I scrolled to the 'GitHub Pages' section.
+3. Here I selected 'master branch' as my Source.
+3. This deployed my project on GitHub Pages and allowed me to share the live website with others.
+
+More information about this process can be found on the following link: [Configuring a publishing source for your GitHub Pages site](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+##### back to [top](#table-of-contents)
+---
+
+## Credits
+### Content
+
+The content of this website refers to a Immagination company. The website purpose is to look realistic and useful in a business environment.
+
+- [Opening Image in the home page](https://www.elitetraveler.com/wp-content/uploads/2016/11/haveli-462x308.jpg)
+- [Image of Main Course](https://footage.framepool.com/shotimg/qf/623800370-indian-cuisine-side-side-dish-main-course-asian-cuisine.jpg)
+- [Image of Starters](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDa6-9BWRHZFxAJeCCc7Sjz-Z0c08ik1xX9w&usqp=CAU)
+- [Image of Desserts](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReTf7ogQNhUTKRzWDF2lDq32yfqIqd1AzdGA&usqp=CAU)
+- [Image of Contact Page](https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8xMFxcXC8yOTExMTUyM1xcXC9Eb29sYWxseS1JbnRlcmlvcnMtLmpwZ1wiLFwid2lkdGhcIjo5OTAsXCJoZWlnaHRcIjo1MjksXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5pbWFnZS5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nP3Y9MlwifSIsImhhc2giOiI3MjA2YTQ4YTAzZWMzYzEwYTk4ZDBmZjlmYWRhYjM4ZDBiMDI5OGRhIn0=/doolally-interiors.jpg)
+
+### Acknowledgements
+
+Thank you to the following people who helped with support, inspiration and guidance at different stages in the project:
+
+- The guidance and support of my mentor Adegbenga Adeye
+- The tutor support team
+- The supportive *Code Institute* community.
+- My family and friends for their patience.
+##### back to [top](#table-of-contents)

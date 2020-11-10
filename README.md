@@ -60,7 +60,7 @@ The OD'S Restaurant Website was built at the request of Owner. The client wanted
 
 ### Wireframes
 
-- [Desktop Wireframe](assets/wireframe/Desktop-wireframe.bmpr)
+- [Desktop Wireframe](assets/wireframe/Desktop.pdf)
 - [Tablet Wireframe]()
 - [Mobile Wireframe]()
 

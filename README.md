@@ -33,7 +33,7 @@ It was build using the knowledge gained from the HTML, CSS and User Centric Desi
 
 The live website can be found [here].(https://vijusuren.github.io/my-first-repo1/index.html).
 
-The OD'S Restaurant Website was built at the request of Owner. The client wanted a fully responsive website that could be used to advertise and showcase their dishes. The client wants the ability to increase customer though the website.
+The OD'S Restaurant Website was built by Own Idea. The Items shown in this websites are famous and delicious south Indian dishes.
 ***
 ## UX Design
 

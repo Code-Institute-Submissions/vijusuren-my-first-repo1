@@ -59,7 +59,7 @@ body{
      background-color: #dbcbbd;
 }
 
-/*--------------------- Image Slide*/
+/*--------------------- Image Slide
 .img-slide{
   width:100%; height:0px; overflow: hidden; position:relative;padding-bottom:50%;
 }
@@ -75,7 +75,7 @@ body{
 .img-slide img:nth-child(4){animation-delay:5s;}
 .img-slide img:nth-child(3){animation-delay:10s;}
 .img-slide img:nth-child(2){animation-delay:15s;}
-.img-slide img:nth-child(1){animation-delay:20s;}
+.img-slide img:nth-child(1){animation-delay:20s;}*/
 
 /*--------------------- Menu Section*/
 .menu-section{

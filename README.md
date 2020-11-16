@@ -171,7 +171,8 @@ The content of this website refers to a Imagination company. The website purpose
 ### Media
 
 Image slide in Home pages shows some of the famous Indian Items. I got on idea from [hyde-design](https://www.hyde-design.co.uk/)
-Grid Image in Gallery pages from []()
+Grid Image in Gallery pages help from [w3school](https://www.w3schools.com/)
+
 ### Acknowledgements
 
 Thank you to the following people who helped with support, inspiration and guidance at different stages in the project:

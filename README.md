@@ -160,7 +160,7 @@ More information about this process can be found on the following link: [Configu
 ## Credits
 ### Content
 
-The content of this website refers to a Imagination company. The website purpose is to look realistic and useful in a business environment.
+The content of this website refers to a Imagination company. The website purpose is to look realistic.
 
 - [Opening Image in the home page](https://www.elitetraveler.com/wp-content/uploads/2016/11/haveli-462x308.jpg)
 - [Image of Main Course](https://footage.framepool.com/shotimg/qf/623800370-indian-cuisine-side-side-dish-main-course-asian-cuisine.jpg)

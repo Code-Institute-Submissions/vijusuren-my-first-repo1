@@ -80,7 +80,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 
 - The Front Image shows the Image of Restaurant.
 - In the Menu section having MainCourse, Starters and Desserts. While clicked on it goes to Menu Page.
-- Slides of images 
+- Slides of Images 
 - footer
 
 ### Menu
@@ -168,6 +168,10 @@ The content of this website refers to a Imagination company. The website purpose
 - [Image of Desserts](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReTf7ogQNhUTKRzWDF2lDq32yfqIqd1AzdGA&usqp=CAU)
 - [Image of Contact Page](https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8xMFxcXC8yOTExMTUyM1xcXC9Eb29sYWxseS1JbnRlcmlvcnMtLmpwZ1wiLFwid2lkdGhcIjo5OTAsXCJoZWlnaHRcIjo1MjksXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5pbWFnZS5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nP3Y9MlwifSIsImhhc2giOiI3MjA2YTQ4YTAzZWMzYzEwYTk4ZDBmZjlmYWRhYjM4ZDBiMDI5OGRhIn0=/doolally-interiors.jpg)
 
+### Media
+
+Image slide in Home pages shows some of the famous Indian Items. I got on idea from [hyde-design](https://www.hyde-design.co.uk/)
+Grid Image in Gallery pages from []()
 ### Acknowledgements
 
 Thank you to the following people who helped with support, inspiration and guidance at different stages in the project:

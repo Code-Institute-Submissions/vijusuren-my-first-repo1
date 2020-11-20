@@ -3,26 +3,26 @@
 ![Responsive-view](assets/image/Capture.PNG)
 # Milestone Project 1
 ## Table of Contents
-[**Project overview**](#project-overview)
-[**UX**](#ux-design)
+* [**Project overview**](#project-overview)
+* [**UX**](#ux-design)
   - [**User Stories**](#user-stories)
   - [**Design**](#design)
   - [**Libraries**](#libraries)
   - [**Color Scheme**](#color-scheme)
   - [**Wireframes**](#wireframes)
  
-[**Features**](#features)
+* [**Features**](#features)
   - [**Existing Features**](#existing-features)
   - [**Features Left to Implement**](#features-left-to-implemement)
  
-[**Technologies Used**](#technologies-used)
+* [**Technologies Used**](#technologies-used)
  
-[**Testing**](#testing)
+* [**Testing**](#testing)
   - [**Validators**](#validators)
  
-[**Deployment**](#deployment)
+* [**Deployment**](#deployment)
  
-[**Credits**](#credits)
+* [**Credits**](#credits)
   - [**Content**](#content)
   - [**Media**](#media)
   - [**Acknowledgements**](#acknowledgements)

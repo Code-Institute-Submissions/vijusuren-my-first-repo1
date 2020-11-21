@@ -141,15 +141,31 @@ h2{
   color: #eb8f8f;
 }
 
-/*--------------------- Photo grid for Gallery.html*/
-.flex-column{
-    max-width: 260px;
-}
-.container{
-    margin: 5px;
-    align-items: stretch;
-}
-
+/*--------------------- Image grid for Gallery.html*/
+.main{
+        max-width: 1000px;
+        margin: auto;
+    }
+        .row {
+        margin: 8px -16px;
+    }
+/* Add padding BETWEEN each column */
+    .row,
+    .row > .column {
+        padding: 8px;
+    }
+/* Create four equal columns that floats next to each other */
+    .column {
+        float: left;
+        width: 25%;
+        height: 25%;
+    }
+/* Clear floats after rows */ 
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
 /*--------------------- Form section in contact.html*/
 .form-section {
     clear: left;
@@ -214,4 +230,16 @@ h2{
     .menucolumn{
         width: inherit;
     }
+}
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }

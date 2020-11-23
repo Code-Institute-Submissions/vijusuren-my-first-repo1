@@ -142,15 +142,17 @@ h2{
         display: table;
         clear: both;
     }
-    .thumbnail {
-        position:relative;
-        top:-25px;
-        left:-35px;
-        width:500px;
-        height:auto;
-        display:block;
-        z-index:999;
+    .zoom {
+  padding: 50px;
+  background-color: #dbcbbd;
+  transition: transform .2s; /* Animation */
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
     }
+    .zoom:hover {
+  transform: scale(1.5); /* (150% zoom)*/
+}
 /*--------------------- Form section in contact.html*/
 .form-section {
     clear: left;

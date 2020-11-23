@@ -142,6 +142,9 @@ h2{
         display: table;
         clear: both;
     }
+    .image-zoom {
+        transition: transform .5s ease-in-out;
+    }
 /*--------------------- Form section in contact.html*/
 .form-section {
     clear: left;

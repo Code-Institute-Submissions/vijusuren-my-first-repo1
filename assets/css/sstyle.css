@@ -142,7 +142,15 @@ h2{
         display: table;
         clear: both;
     }
-
+    .thumbnail {
+        position:relative;
+        top:-25px;
+        left:-35px;
+        width:500px;
+        height:auto;
+        display:block;
+        z-index:999;
+    }
 /*--------------------- Form section in contact.html*/
 .form-section {
     clear: left;

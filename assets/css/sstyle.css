@@ -138,9 +138,12 @@ h2{
     }
 /* Create four equal columns that floats next to each other */
     .column {
-        float: left;
+        /*float: left;
         width: 25%;
-        height: 25%;
+        height: 25%;*/
+          position: relative;
+  width: 50%;
+  max-width: 300px;
     }
 /* Clear floats after rows */ 
     .row:after {

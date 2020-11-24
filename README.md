@@ -75,7 +75,7 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
     * Mango Lassi
     * Watermelon Juice
     * Ice Cream
-- In the Gallery page user can view all the Images which are listed in the Menu page.
+- In the Gallery page user can view all the Images of Dishes. When the mouse pointer on the Image display the Name of the dishes.
 - In the Contact page user can send the feedback through email.
 
 ## Design

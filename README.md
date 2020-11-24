@@ -42,9 +42,41 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
 
 ## User Stories
 
-- The Customer's Reviews motivated me to create a website that transmitted the same enthusiasm people have when visiting the OD'S Restaurant.
-- The Customer can view most famous varities of south Indian dishes in Menu section, to perform this action I clicked on Maincourse / Starters / Desserts.
-- A standard layout is fully responsive on mobile devices and larger screens.
+- This website will give an information to the user about the Indian Restaurant.
+- In a Home page, as a user can view Main Course, Starters and Desserts. If user can click any one of this items will enter into the Menu page.
+- In the Menu page user can view list of Items. All these dishes are very famous and delicious in India.
+- List of Items in Main Courses:
+    * Idli
+    * Pongal
+    * Chapati
+    * Dosai
+    * Parotta
+    * Poori
+    * Veg-Noodles
+    * Veg-Briyani
+    * Veg-Pulav
+- List of Items in Starters:
+    * Samosa
+    * Masal Vadai 
+    * Onion Pakoda
+    * Kuzhi Paniyaram
+    * Bonda
+    * Baji
+    * Paneer-65
+    * Babycorn fries 
+    * Paneer Tikka
+- List of Items in Desserts:
+    * Gulam Jamun
+    * Rasamali
+    * Paneer Jamun
+    * Carrot Halwa
+    * Brownie
+    * Strawberry Milkshake
+    * Mango Lassi
+    * Watermelon Juice
+    * Ice Cream
+- In the Gallery page user can view all the Images which are listed in the Menu page.
+- In the Contact page user can send the feedback through email.
 
 ## Design
 ### Libraries
@@ -54,9 +86,9 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
 
 ### Color Scheme
 
-- Light Peach![#dbcbbd](https://placehold.it/15/dbcbbd/000000?text=+) 
-- Peach![#eb8f8f](https://placehold.it/15/eb8f8f/000000?text=+)
-- Light Pink![#ffc1fa](https://placehold.it/15/ffc1fa/000000?text=+)
+- Pantone![#dbcbbd](https://placehold.it/15/dbcbbd/000000?text=+) 
+- Sweet Pink![#eb8f8f](https://placehold.it/15/eb8f8f/000000?text=+)
+- Pale Pink![#ffc1fa](https://placehold.it/15/ffc1fa/000000?text=+)
 
 ### Wireframes
 
@@ -81,7 +113,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 - The Front Image shows the Image of Restaurant.
 - In the Menu section having MainCourse, Starters and Desserts. While clicked on it goes to Menu Page.
 - Slides of Images 
-- footer
+- Footer
 
 ### Menu
 

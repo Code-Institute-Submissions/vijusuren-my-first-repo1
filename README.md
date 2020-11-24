@@ -113,7 +113,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 - The Front Image shows the Image of Restaurant.
 - In the Menu section having MainCourse, Starters and Desserts. While clicked on it goes to Menu Page.
 - Slides of Images 
-- Footer
+- Footer contains contact details, social network and address.
 
 ### Menu
 

@@ -134,6 +134,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 
 - A furter features could be adding extra dishes in menu page.
 - Implementing online orders.
+
 ##### back to [top](#table-of-contents)
 ---
 
@@ -198,12 +199,16 @@ The content of this website refers to a Imagination company. The website purpose
 - [Image of Main Course](https://footage.framepool.com/shotimg/qf/623800370-indian-cuisine-side-side-dish-main-course-asian-cuisine.jpg)
 - [Image of Starters](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDa6-9BWRHZFxAJeCCc7Sjz-Z0c08ik1xX9w&usqp=CAU)
 - [Image of Desserts](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReTf7ogQNhUTKRzWDF2lDq32yfqIqd1AzdGA&usqp=CAU)
+- [Image of Menu](https://www.primogrilltacoma.com/wp-content/uploads/2014/05/wood.jpg)
+- [Image of Gallery](https://www.sangeethaveg.com/wp-content/uploads/2019/09/b12.jpg)
 - [Image of Contact Page](https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8xMFxcXC8yOTExMTUyM1xcXC9Eb29sYWxseS1JbnRlcmlvcnMtLmpwZ1wiLFwid2lkdGhcIjo5OTAsXCJoZWlnaHRcIjo1MjksXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5pbWFnZS5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nP3Y9MlwifSIsImhhc2giOiI3MjA2YTQ4YTAzZWMzYzEwYTk4ZDBmZjlmYWRhYjM4ZDBiMDI5OGRhIn0=/doolally-interiors.jpg)
 
 ### Media
 
-- Image slide in Home pages shows some of the famous Indian Items. I got on idea from [Bootstrap.com](https://mdbootstrap.com/)
+- Image slide in Home pages shows some of the famous Indian Items. I got from [Bootstrap.com](https://mdbootstrap.com/) and I customized code for my site.
 - [w3school](https://www.w3schools.com/) helps me to make Grid of Image in Gallery page.
+- Menu page from [w3school](https://www.w3schools.com) and I customized for my site.
+- Header and Footer from Resume MiniProject [Code Institute](https://codeinstitute.net/) and I customized for my site.
 
 ### Acknowledgements
 

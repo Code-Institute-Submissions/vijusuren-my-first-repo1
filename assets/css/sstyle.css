@@ -150,11 +150,11 @@ h2{
     }
     .overlay {
   position: absolute;
-  bottom: 0;
+  top: unset;
   background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5); /* Black see-through */
   color: #f1f1f1;
-  width: 100%;
+  width: 15%;
   transition: .5s ease;
   opacity:0;
   color: white;
@@ -165,17 +165,7 @@ h2{
 .column:hover .overlay {
     opacity: 1;
 }
-    /*.zoom {
-  padding: 50px;
-  background-color: #dbcbbd;
-  transition: transform .2s; /* Animation */
-  /*width: 200px;
-  height: 200px;
-  margin: 0 auto;
-    }*/
-    /*.zoom:hover {
-  transform: scale(1.5); /* (150% zoom)
-}*/
+
 /*--------------------- Form section in contact.html*/
 .form-section {
     clear: left;
@@ -246,10 +236,16 @@ h2{
   .column {
     width: 50%;
   }
+  .overlay {
+      width: auto;
+  }
 }
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
+  }
+  .overlay {
+      width: auto;
   }
 }

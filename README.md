@@ -161,7 +161,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 - Validating HTML, CSS
 - Manually testing the functionality of all links
 
-### Validators
+## Validators
 #### HTML
  
 - [W3C HTML Validator](https://validator.w3.org/) - Document checking Completed. No errors or warnings to show.

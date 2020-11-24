@@ -48,6 +48,9 @@ body{
     padding-top: 1rem;
     background-color: #eb8f8f;
 }
+#copyright {
+    background-color: #ffc1fa
+}
 
 /*--------------------- Colors*/
 .palered {

@@ -162,6 +162,9 @@ h2{
   padding: 20px;
   text-align: center;
 }
+.column:hover .overlay {
+    opacity: 1;
+}
     /*.zoom {
   padding: 50px;
   background-color: #dbcbbd;

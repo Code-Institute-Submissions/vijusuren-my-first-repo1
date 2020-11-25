@@ -156,8 +156,11 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 ## Testing
 
 - Testing User Stories
-- Checking website compatibility on different browsers
-- Checking responsiveness of design on all screen sizes
+- The website loads correctly and functions on Chrome, Internet Explorer browsers.
+- All links direct to the correct page.
+- All Images and elements on website must load currectly.
+- All elements on the website must be responsive and resized for different size of screen.
+- All Images in Gallery must display the name of the dishes when mouse pointer on the image.
 - Validating HTML, CSS
 - Manually testing the functionality of all links
 

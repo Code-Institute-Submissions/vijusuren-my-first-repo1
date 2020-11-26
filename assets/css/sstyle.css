@@ -56,7 +56,10 @@ body{
 .pantone {
      background-color: #dbcbbd;
 }
-
+/*--------------------- Image Slide*/
+.carousel-item img{
+    height: 50vh;
+}
 /*--------------------- Menu Section*/
 .menu-section{
   background-color: #eb8f8f;
@@ -82,9 +85,6 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-.carousel-item img{
-    height: 50vh;
 }
 /*--------------------- Logo*/
 #logo{

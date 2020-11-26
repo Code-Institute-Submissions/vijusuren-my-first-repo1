@@ -17,7 +17,9 @@ h2{
 #welcome, #dishes{
     text-align: center;
 }
-
+.carousel-item {
+    height: 50vh;
+}
 /*--------------------- Nav Bar*/
 .nav-item {
     font-family: 'Dancing Script', cursive;
@@ -34,13 +36,6 @@ h2{
 }
 body{
     background-color: #dbcbbd !important;
-}
-/*--------------------- Image Slide*/
-.image-slide {
-    height: 50vh;
-    background-position: center;
-    background-size: cover;
-    position: relative;
 }
 /*--------------------- Footer*/
 .footer-heading {

@@ -35,7 +35,13 @@ h2{
 body{
     background-color: #dbcbbd !important;
 }
-
+/*--------------------- Image Slide*/
+.image-slide {
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
 /*--------------------- Footer*/
 .footer-heading {
     font-family: 'Oswald', sans-serif;

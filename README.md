@@ -44,6 +44,9 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
 
 - This website will give an information to the user about the Indian Restaurant.
 - In a Home page, as a user can view Main Course, Starters and Desserts. If user can click any one of this items will enter into the Menu page.
+- If user can click Main Course it will go to Maincourse in menu page.
+- In case user click Starters in Home page will go to the Starters section in Menu page.
+- In case user click Desserts in Home page will go to the Desserts section in Menu page.
 - In the Menu page user can view list of Items. All these dishes are very famous and delicious in India.
 - List of Items in Main Courses:
     * Idli

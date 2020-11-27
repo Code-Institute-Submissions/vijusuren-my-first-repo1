@@ -10,18 +10,18 @@
   - [**Libraries**](#libraries)
   - [**Color Scheme**](#color-scheme)
   - [**Wireframes**](#wireframes)
- 
+
 * [**Features**](#features)
   - [**Existing Features**](#existing-features)
   - [**Features Left to Implement**](#features-left-to-implemement)
- 
+
 * [**Technologies Used**](#technologies-used)
- 
+
 * [**Testing**](#testing)
   - [**Validators**](#validators)
- 
+
 * [**Deployment**](#deployment)
- 
+
 * [**Credits**](#credits)
   - [**Content**](#content)
   - [**Media**](#media)
@@ -44,7 +44,7 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
 
 - This website will give an information to the user about the Indian Restaurant.
 - In a Home page, as a user can view Main Course, Starters and Desserts. If user can click any one of this items will enter into the Menu page.
-- If user can click Main Course it will go to Maincourse in menu page.
+- If user can click Main Course it will go to Main course in menu page.
 - In case user click Starters in Home page will go to the Starters section in Menu page.
 - In case user click Desserts in Home page will go to the Desserts section in Menu page.
 - In the Menu page user can view list of Items. All these dishes are very famous and delicious in India.
@@ -60,13 +60,13 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
     * Veg-Pulav
 - List of Items in Starters:
     * Samosa
-    * Masal Vadai 
+    * Masal Vadai
     * Onion Pakoda
     * Kuzhi Paniyaram
     * Bonda
     * Baji
     * Paneer-65
-    * Babycorn fries 
+    * Babycorn fries
     * Paneer Tikka
 - List of Items in Desserts:
     * Gulam Jamun
@@ -89,7 +89,7 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
 
 ### Color Scheme
 
-- Pantone![#dbcbbd](https://placehold.it/15/dbcbbd/000000?text=+) 
+- Pantone![#dbcbbd](https://placehold.it/15/dbcbbd/000000?text=+)
 - Sweet Pink![#eb8f8f](https://placehold.it/15/eb8f8f/000000?text=+)
 - Pale Pink![#ffc1fa](https://placehold.it/15/ffc1fa/000000?text=+)
 
@@ -114,8 +114,8 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 ### Home
 
 - The Front Image shows the Image of Restaurant.
-- In the Menu section having MainCourse, Starters and Desserts. While clicked on it goes to Menu Page.
-- Slides of Images 
+- In the Menu section having Main Course, Starters and Desserts. While clicked on it goes to Menu Page.
+- Slides of Images
 - Footer contains contact details, social network and address.
 
 ### Menu
@@ -126,7 +126,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 - Last user can see Desserts section.
 
 ### Gallery
- 
+
 - This page will contain grid Images of south Indian dishes.
 
 ### Contact
@@ -161,7 +161,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 - Testing User Stories
 - The website loads correctly and functions on Chrome, Internet Explorer browsers.
 - All links direct to the correct page.
-- All Images and elements on website must load currectly.
+- All Images and elements on website must load correctly.
 - All elements on the website must be responsive and resized for different size of screen.
 - All Images in Gallery must display the name of the dishes when mouse pointer on the image.
 - Validating HTML, CSS
@@ -169,11 +169,11 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 
 ## Validators
 #### HTML
- 
+
 - [W3C HTML Validator](https://validator.w3.org/) - Document checking Completed. No errors or warnings to show.
- 
+
 #### CSS
- 
+
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Congratulations! No Error Found.
 ##### back to [top](#table-of-contents)
 ---
@@ -181,7 +181,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 ## Deployment
 ### Deploying my project
 
-I created my project on GitHub and used GitPod's development environment to write my code. 
+I created my project on GitHub and used GitPod's development environment to write my code.
 Use the following link to view my live project: [OD'S Restaurant](https://vijusuren.github.io/my-first-repo1/)
 
 ### Deploying to GitHub Pages
@@ -214,8 +214,8 @@ The content of this website refers to a Imagination company. The website purpose
 - Image slide in Home pages shows some of the famous Indian Items. I got from [Bootstrap.com](https://mdbootstrap.com/) and I customized code for my site.
 - [w3school](https://www.w3schools.com/) helps me to make Grid of Image in Gallery page.
 - Menu page from [w3school](https://www.w3schools.com) and I customized for my site.
-- Grid Image and overlay in Gallery page from [w3school](http://www.w3schools.com) and I cusotmized for my site.
-- Header and Footer from Resume MiniProject [Code Institute](https://codeinstitute.net/) and I customized for my site.
+- Grid Image and overlay in Gallery page from [w3school](http://www.w3schools.com) and I customized for my site.
+- Header and Footer from Resume Mini Project [Code Institute](https://codeinstitute.net/) and I customized for my site.
 
 ### Acknowledgements
 

@@ -1,250 +1,243 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 html{
-    background-color: #dbcbbd;
+background-color: #dbcbbd;
 }
 body{
-    font-family: 'Dancing Script', cursive;
-    padding-top: 106px;
+font-family: 'Dancing Script', cursive;
+padding-top: 106px;
 }
-
 /*--------------------- Heading h2*/
 h2{
-  font-family: 'Dancing Script', cursive;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  text-align: center;
+font-family: 'Dancing Script', cursive;
+text-transform: uppercase;
+letter-spacing: 4px;
+text-align: center;
 }
 #welcome, #dishes{
-    text-align: center;
+text-align: center;
 }
 /*--------------------- Nav Bar*/
 .nav-item {
-    font-family: 'Dancing Script', cursive;
-    letter-spacing: 2px;
-    font-weight: bold;
-    text-align: right;  
-    font-size: 200%;  
+font-family: 'Dancing Script', cursive;
+letter-spacing: 2px;
+font-weight: bold;
+text-align: right;  
+font-size: 200%;  
 }
 .navbar .navbar-toggler {
-    border: 0;
+border: 0;
 }
 .active span {
-    border-bottom: 2px solid #dbcbbd;
+border-bottom: 2px solid #dbcbbd;
 }
 body{
-    background-color: #dbcbbd !important;
+background-color: #dbcbbd !important;
 }
 /*--------------------- Footer*/
 .footer-heading {
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
-    letter-spacing: 2px;
-    margin: 10px auto 20px;
+font-family: 'Oswald', sans-serif;
+font-weight: bold;
+letter-spacing: 2px;
+margin: 10px auto 20px;
 }
 #foot-info {
-    padding-top: 1rem;
-    background-color: #eb8f8f;
+padding-top: 1rem;
+background-color: #eb8f8f;
 }
 #copyright {
-    background-color: #eb8f8f;
+background-color: #eb8f8f;
 }
-
 /*--------------------- Colors*/
 .palered {
-    background-color: #eb8f8f;
+background-color: #eb8f8f;
 }
 .pantone {
-     background-color: #dbcbbd;
+background-color: #dbcbbd;
 }
 /*--------------------- Image Slide*/
 .carousel-item img{
-    height: 50vh;
+height: 50vh;
 }
 /*--------------------- Menu Section*/
 .menu-section{
-  background-color: #eb8f8f;
-  height: 100%;
-  margin-top: 20px;
-
+background-color: #eb8f8f;
+height: 100%;
+margin-top: 20px;
 }
 .menu-section img{
-  height: 60%;
-  width: 55%;
-  border-radius: 50%;
+height: 60%;
+width: 55%;
+border-radius: 50%;
 }
 .menu-section p{
-  font-size: 100%;
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
+font-size: 100%;
+font-family: 'Oswald', sans-serif;
+text-align: center;
 }
 .menu-section a{
-  text-decoration: none;
-  cursor: pointer;
+text-decoration: none;
+cursor: pointer;
 }
 .center-block{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
 }
 /*--------------------- Logo*/
 #logo{
-  float: left;
-  font-size: 200%;
-  margin-left: 30px;
+float: left;
+font-size: 200%;
+margin-left: 30px;
 }
-
 /*--------------------- Menu page content*/
 /**{
-  box-sizing: border-box;
+box-sizing: border-box;
 }*/
 .column{
-  float: left;
-  width: 33.33%;
-  padding: 10%;
-  height: 300px;
+float: left;
+width: 33.33%;
+padding: 10%;
+height: 300px;
 }
 .row:after{
-  content: "";
-  display: table;
-  clear: both;
+content: "";
+display: table;
+clear: both;
 }
 .column h2{
-  color: #fff
+color: #fff
 }
 hr{
-  border-top: 5px solid grey;
+border-top: 5px solid grey;
 }
 h2{
-  text-align: center;
-  top: 20%;
-  color: black;
+text-align: center;
+top: 20%;
+color: black;
 }
 .column p{
-  color: #eb8f8f;
+color: #eb8f8f;
 }
-
 /*--------------------- Image grid for Gallery.html*/
 .main{
-        max-width: 1000px;
-        margin: auto;
-    }
-        .row {
-        margin: 8px -16px;
-    }
+max-width: 1000px;
+margin: auto;
+}
+.row {
+margin: 8px -16px;
+}
 /* Add padding BETWEEN each column */
-    .row,
-    .row > .column {
-        padding: 8px;
-    }
+.row,
+.row > .column {
+padding: 8px;
+}
 /* Create four equal columns that floats next to each other */
-    .column {
-        float: left;
-        width: 25%;
-        height: 25%;
-    }
+.column {
+float: left;
+width: 25%;
+height: 25%;
+}
 /* Clear floats after rows */ 
-    .row:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-    .overlay {
-  position: absolute;
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
-  color: #f1f1f1;
-  width: 19%;
-  transition: .5s ease;
-  opacity:0;
-  color: white;
-  font-size: 20px;
-  padding: 10px;
-  text-align: center;
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+.overlay {
+position: absolute;
+background: rgb(0, 0, 0);
+background: rgba(0, 0, 0, 0.5); /* Black see-through */
+color: #f1f1f1;
+width: 19%;
+transition: .5s ease;
+opacity:0;
+color: white;
+font-size: 20px;
+padding: 10px;
+text-align: center;
 }
 .column:hover .overlay {
-    opacity: 1;
+opacity: 1;
 }
-
 /*--------------------- Form section in contact.html*/
 .form-section {
-    clear: left;
-    background: url("https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8xMFxcXC8yOTExMTUyM1xcXC9Eb29sYWxseS1JbnRlcmlvcnMtLmpwZ1wiLFwid2lkdGhcIjo5OTAsXCJoZWlnaHRcIjo1MjksXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5pbWFnZS5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nP3Y9MlwifSIsImhhc2giOiI3MjA2YTQ4YTAzZWMzYzEwYTk4ZDBmZjlmYWRhYjM4ZDBiMDI5OGRhIn0=/doolally-interiors.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 900px;
+clear: left;
+background: url("https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8xMFxcXC8yOTExMTUyM1xcXC9Eb29sYWxseS1JbnRlcmlvcnMtLmpwZ1wiLFwid2lkdGhcIjo5OTAsXCJoZWlnaHRcIjo1MjksXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5pbWFnZS5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nP3Y9MlwifSIsImhhc2giOiI3MjA2YTQ4YTAzZWMzYzEwYTk4ZDBmZjlmYWRhYjM4ZDBiMDI5OGRhIn0=/doolally-interiors.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 900px;
 }
 .contact{
-	padding: 4%;
-	height: 400px;
+padding: 4%;
+height: 400px;
 }
 .col-md-3{
-	background: #ffc1fa;
-	padding: 4%;
-	border-top-left-radius: 0.5rem;
-	border-bottom-left-radius: 0.5rem;
+background: #ffc1fa;
+padding: 4%;
+border-top-left-radius: 0.5rem;
+border-bottom-left-radius: 0.5rem;
 }
 .contact-info{
-	margin-top:10%;
+margin-top:10%;
 }
 .contact-info img{
-	margin-bottom: 15%;
+margin-bottom: 15%;
 }
 .contact-info h2{
-	margin-bottom: 10%;
+margin-bottom: 10%;
 }
 .col-md-9{
-	background:#fff;
-	padding: 3%;
-	border-top-right-radius: 0.5rem;
-	border-bottom-right-radius: 0.5rem;
+background:#fff;
+padding: 3%;
+border-top-right-radius: 0.5rem;
+border-bottom-right-radius: 0.5rem;
 }
 .contact-form label{
-	font-weight:600;
+font-weight:600;
 }
 .contact-form button{
-	background: #25274d;
-	color: #fff;
-	font-weight: 600;
-	width: 25%;
+background: #25274d;
+color: #fff;
+font-weight: 600;
+width: 25%;
 }
 .contact-form button:focus{
-	box-shadow:none;
+box-shadow:none;
 }
-
 /*--------------------- Media Queries*/
 @media(max-width: 568px){
-    #logo{
-        font-size: 100%;
-    }
-    #image{
-        height: 100%;
-        width: 100%;
-    }
-    .menu-section{
-        width: 100%;
-        height: 100%;
-        margin: 0 auto;
-    }
-    .menucolumn{
-        width: inherit;
-    }
+#logo{
+font-size: 100%;
+}
+#image{
+height: 100%;
+width: 100%;
+}
+.menu-section{
+width: 100%;
+height: 100%;
+margin: 0 auto;
+}
+.menucolumn{
+width: inherit;
+}
 }
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 900px) {
-  .column {
-    width: 50%;
-  }
-  .overlay {
-      width: auto;
-  }
+.column {
+width: 50%;
+}
+.overlay {
+width: auto;
+}
 }
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-  .overlay {
-      width: 100%;
-  }
+.column {
+width: 100%;
+}
+.overlay {
+width: 100%;
+}
 }

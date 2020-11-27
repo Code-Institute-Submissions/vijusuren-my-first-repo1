@@ -33,9 +33,6 @@ border-bottom: 2px solid #dbcbbd;
 body{
 background-color: #dbcbbd !important;
 }
-.navbar {
-    flex-wrap: nowrap;
-}
 /*--------------------- Footer*/
 .footer-heading {
 font-family: 'Oswald', sans-serif;
@@ -242,8 +239,5 @@ width: 100%;
 }
 .overlay {
 width: 100%;
-}
-.navbar {
-    flex-wrap: wrap;
 }
 }

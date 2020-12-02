@@ -17,7 +17,7 @@ text-align: center;
 text-align: center;
 }
 /*--------------------- Nav Bar*/
-.nav-item {
+/*.nav-item {
 font-family: 'Dancing Script', cursive;
 letter-spacing: 2px;
 font-weight: bold;
@@ -29,6 +29,43 @@ border: 0;
 }
 .active span {
 border-bottom: 2px solid #dbcbbd;
+}*/
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+navbar-brand {
+    padding-left: 10px;
+    display: inline-block;
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    background-color: #e84610;
+    text-align: left;
+}
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 0.5rem 1rem;
 }
 body{
 background-color: #dbcbbd !important;

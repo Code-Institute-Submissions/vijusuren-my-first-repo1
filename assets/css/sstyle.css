@@ -44,7 +44,7 @@ border-bottom: 2px solid #dbcbbd;
     padding-left: 10px;
     display: inline-block;
     font-family: 'Dancing Script', cursive;
-    font-size: 30px;
+    font-size: 200%;
     font-weight: bold;
     height: 42px;
     width: 42px;
@@ -56,6 +56,10 @@ border-bottom: 2px solid #dbcbbd;
     border: 0;
     background-color:#dbcbbd;
     -webkit-box-align: center;
+}
+.nav-item{
+    color:#000000 !important;
+    font-size: 30px;
 }
 body{
 background-color: #dbcbbd !important;

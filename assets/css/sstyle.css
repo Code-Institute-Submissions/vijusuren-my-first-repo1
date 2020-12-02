@@ -31,8 +31,10 @@ border: 0;
 .active span {
 border-bottom: 2px solid #dbcbbd;
 }
-.navbar-brand .navbar-dark {
+.navbar-dark .navbar-brand {
     color: black !important;
+    font-size: 100%;
+    font-family: 'Dancing Script', cursive;
 }
 /*.fixed-top {
     position: fixed;

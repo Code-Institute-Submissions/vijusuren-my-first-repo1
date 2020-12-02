@@ -10,7 +10,6 @@ padding-top: 106px;
 h2{
 font-family: 'Dancing Script', cursive;
 text-transform: uppercase;
-letter-spacing: 4px;
 text-align: center;
 }
 #welcome, #dishes{
@@ -20,6 +19,7 @@ text-align: center;
 .nav-item .nav-link {
 font-family: 'Dancing Script', cursive;
 letter-spacing: 2px;
+line-height: 1px;
 font-weight: bold;
 text-align: right;  
 font-size: 200%; 

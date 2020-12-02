@@ -38,24 +38,23 @@ border-bottom: 2px solid #dbcbbd;
     z-index: 1030;
 }
 .navbar-dark .navbar-brand {
-    color: #fff;
+    color:#000000;
 }
 .navbar-brand {
     padding-left: 10px;
     display: inline-block;
-    font-family: "Raleway", sans-serif;
+    font-family: "Dancing Script", cursive;
     font-size: 25px;
     font-weight: bold;
     height: 42px;
     width: 42px;
     border-radius: 50%;
-    background-color: #e84610;
-    text-align: left;
+    text-align: right;
 }
 .navbar {
     margin-bottom: 0;
     border: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color:#dbcbbd;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;

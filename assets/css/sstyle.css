@@ -31,9 +31,8 @@ border: 0;
 .active span {
 border-bottom: 2px solid #dbcbbd;
 }
-.navbar .navbar-brand{
-    color:#25274d;
-    font-size: 100%;
+.navbar-brand .navbar-dark {
+    color: black !important;
 }
 /*.fixed-top {
     position: fixed;

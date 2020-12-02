@@ -214,7 +214,7 @@ box-shadow:none;
 /*--------------------- Media Queries*/
 @media(max-width: 568px){
 #logo{
-font-size: 100%;
+font-size: 75%;
 }
 #image{
 height: 100%;

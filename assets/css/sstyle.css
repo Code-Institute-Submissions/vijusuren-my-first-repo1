@@ -22,13 +22,18 @@ font-family: 'Dancing Script', cursive;
 letter-spacing: 2px;
 font-weight: bold;
 text-align: right;  
-font-size: 200%;  
+font-size: 200%; 
+color:#25274d; 
 }
 .navbar .navbar-toggler {
 border: 0;
 }
 .active span {
 border-bottom: 2px solid #dbcbbd;
+}
+.navbar .navbar-brand{
+    color:#25274d;
+    font-size: 100%;
 }
 /*.fixed-top {
     position: fixed;

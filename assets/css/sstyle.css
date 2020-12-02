@@ -49,7 +49,7 @@ border-bottom: 2px solid #dbcbbd;
     height: 42px;
     width: 42px;
     border-radius: 50%;
-    text-align: right;
+    text-align: left;
 }
 .navbar {
     margin-bottom: 0;
@@ -60,6 +60,7 @@ border-bottom: 2px solid #dbcbbd;
 .nav-item{
     color:#000000 !important;
     font-size: 30px;
+    text-align: right;
 }
 body{
 background-color: #dbcbbd !important;

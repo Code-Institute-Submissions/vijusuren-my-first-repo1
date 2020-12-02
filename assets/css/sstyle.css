@@ -17,7 +17,7 @@ text-align: center;
 text-align: center;
 }
 /*--------------------- Nav Bar*/
-/*.nav-item {
+.nav-item {
 font-family: 'Dancing Script', cursive;
 letter-spacing: 2px;
 font-weight: bold;
@@ -29,8 +29,8 @@ border: 0;
 }
 .active span {
 border-bottom: 2px solid #dbcbbd;
-}*/
-.fixed-top {
+}
+/*.fixed-top {
     position: fixed;
     top: 0;
     right: 0;
@@ -61,7 +61,7 @@ border-bottom: 2px solid #dbcbbd;
     color:#000000 !important;
     font-size: 30px;
     text-align: right;
-}
+}*/
 body{
 background-color: #dbcbbd !important;
 }

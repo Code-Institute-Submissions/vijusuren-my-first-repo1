@@ -31,43 +31,11 @@ border: 0;
 .active span {
 border-bottom: 2px solid #dbcbbd;
 }
-.navbar-dark .navbar-brand {
+.navbar-brand {
     color: black !important;
     font-size: 1.7rem;
     font-family: 'Dancing Script', cursive;
 }
-/*.fixed-top {
-    position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    z-index: 1030;
-}
-.navbar-dark .navbar-brand {
-    color:#000000 !important;
-}
-.navbar-brand {
-    padding-left: 10px;
-    display: inline-block;
-    font-family: 'Dancing Script', cursive;
-    font-size: 200%;
-    font-weight: bold;
-    height: 42px;
-    width: 42px;
-    border-radius: 50%;
-    text-align: left;
-}
-.navbar {
-    margin-bottom: 0;
-    border: 0;
-    background-color:#dbcbbd;
-    -webkit-box-align: center;
-}
-.nav-item{
-    color:#000000 !important;
-    font-size: 30px;
-    text-align: right;
-}*/
 body{
 background-color: #dbcbbd !important;
 }

@@ -92,7 +92,7 @@ margin-right: auto;
 /*--------------------- Logo*/
 #logo{
 float: left;
-/*font-size: 200%;*/
+font-size: 250%;
 /*margin-left: 30px;*/
 }
 /*--------------------- Menu page content*/
@@ -214,7 +214,7 @@ box-shadow:none;
 /*--------------------- Media Queries*/
 @media(max-width: 568px){
 #logo{
-font-size: 75%;
+font-size: 1.5rem;
 }
 #image{
 height: 100%;

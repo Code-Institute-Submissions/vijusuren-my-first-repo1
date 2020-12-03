@@ -8,7 +8,7 @@
   - [**User Stories**](#user-stories)
   - [**Design**](#design)
   - [**Libraries**](#libraries)
-  - [**Color Scheme**](#color-scheme)
+  - [**Colour Scheme**](#colour-scheme)
   - [**Wireframes**](#wireframes)
 
 * [**Features**](#features)
@@ -29,11 +29,11 @@
 
 ## Project Overview
 This Website was created for the purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer Course.
-It was build using the knowledge gained from the HTML, CSS and User Centric Design Modules.
+It was build using the knowledge gained from the HTML, CSS, and User Centric Design Modules.
 
 The live website can be found [here](https://vijusuren.github.io/my-first-repo1/index.html).
 
-The OD'S Restaurant Website was built by Own Idea. The Items shown in this websites are famous and delicious south Indian dishes.
+The OD'S Restaurant Website was built by Own Imagination. The Items shown in this website are famous and delicious south Indian dishes.
 ***
 ## UX Design
 
@@ -43,11 +43,11 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
 ## User Stories
 
 - This website will give an information to the user about the Indian Restaurant.
-- In a Home page, as a user can view Main Course, Starters and Desserts. If user can click any one of this items will enter into the Menu page.
+- In a Home page, user can view Main Course, Starters and Desserts. As a user can click any one of this items will enter the Menu page.
 - If user can click Main Course it will go to Main course in menu page.
 - In case user click Starters in Home page will go to the Starters section in Menu page.
 - In case user click Desserts in Home page will go to the Desserts section in Menu page.
-- In the Menu page user can view list of Items. All these dishes are very famous and delicious in India.
+- In the Menu page user can view list of Items. All these dishes are incredibly famous and delicious in India.
 - List of Items in Main Courses:
     * Idli
     * Pongal
@@ -56,8 +56,8 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
     * Parotta
     * Poori
     * Veg-Noodles
-    * Veg-Briyani
-    * Veg-Pulav
+    * Veg-Biryani
+    * Veg-Pulao
 - List of Items in Starters:
     * Samosa
     * Masal Vadai
@@ -70,12 +70,12 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
     * Paneer Tikka
 - List of Items in Desserts:
     * Gulam Jamun
-    * Rasamali
+    * Rasmalai
     * Paneer Jamun
     * Carrot Halwa
     * Brownie
     * Strawberry Milkshake
-    * Mango Lassi
+    * Mango Lassie
     * Watermelon Juice
     * Ice Cream
 - In the Gallery page user can view all the Images of Dishes. When the mouse pointer on the Image display the Name of the dishes.
@@ -87,7 +87,7 @@ The OD'S Restaurant Website was built by Own Idea. The Items shown in this websi
 
 - [Font](https://fonts.google.com/) - is a font application
 
-### Color Scheme
+### Colour Scheme
 
 - Pantone![#dbcbbd](https://placehold.it/15/dbcbbd/000000?text=+)
 - Sweet Pink![#eb8f8f](https://placehold.it/15/eb8f8f/000000?text=+)
@@ -109,18 +109,18 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 ### Consistent features across all pages
 
 - The navbar menu at the top and footer at the bottom of the page are consistent and responsive throughout the website.
-- Each pages have different images.
+- Each page has different images.
 
 ### Home
 
 - The Front Image shows the Image of Restaurant.
-- In the Menu section having Main Course, Starters and Desserts. While clicked on it goes to Menu Page.
+- In the Menu section having Main Course, Starters and Desserts. User can clicked on it goes to Menu Page.
 - Slides of Images
-- Footer contains contact details, social network and address.
+- Footer contains contact details, social network, and address.
 
 ### Menu
 
-- The user can see three menu section in this page.
+- The user can see three menu sections in this page.
 - The first section having main courses.
 - Scrolling down, the user can see Starters section.
 - Last user can see Desserts section.
@@ -135,7 +135,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 
 ## Features Left to Implement
 
-- A furter features could be adding extra dishes in menu page.
+- A further features could be adding extra dishes in menu page.
 - Implementing online orders.
 
 ##### back to [top](#table-of-contents)
@@ -153,19 +153,56 @@ This project consists of 4 pages accessible from both the navbar and the footer.
     * I relied on Gitpod's dev environment to write the code for my project.
 - [GitHub](https://github.com/)
     * I hosted my deployed website to GitHub, with previous versions of my code stored through the commit history.
+- [Balsamiq](https://en.wikipedia.org/wiki/Balsamiq)
+    * I used Balsamiq to make Wireframes for the project in skeleton stage.
+- [AutoPrefixer](http://autoprefixer.github.io/)
+    *Autoprefixer is used after testing the compatibility of the site for all browsers. After finding some fault in that, autoprefixer is used to fix it.
+
 ##### back to [top](#table-of-contents)
 ---
 
 ## Testing
 
-- Testing User Stories
-- The website loads correctly and functions on Chrome, Internet Explorer browsers.
-- All links direct to the correct page.
-- All Images and elements on website must load correctly.
-- All elements on the website must be responsive and resized for different size of screen.
-- All Images in Gallery must display the name of the dishes when mouse pointer on the image.
-- Validating HTML, CSS
-- Manually testing the functionality of all links
+- All testing has been made manually and have also been tested on different computers and phones.
+- Google Devtools have been used to test the site on the following devices:
+    * Moto G4
+    * Galaxy S5
+    * Pixel 2
+    * Pixel 2 XL
+    * iPhone 5/SE 
+    * iPhone 6/7/8
+    * iPhone 6/7/8 Plus 
+    * iPhone X 
+    * iPad
+    * iPad Pro
+    * Surface Duo 
+    * Galaxy Fold. 
+- Home Page
+    * Image of Restaurant on website must load correctly.
+    * Images on menu section must load correctly.
+    * Image slide on the Home page must load correctly.
+    * Social network links are direct to the correct page.
+    * All elements on the Home page must be responsive and resized for different size of screen.
+- Menu Page
+    * Background Image on Menu page loaded correctly.
+    * Tested Function of link from home page to specific section in menu page.
+    * All elements on the Menu page must be responsive and resized for different size of screen.
+- Gallery Page
+    * All Images on gallery page are loaded correctly.
+    * Display the name of dishes are displayed correctly.
+    * All elements on the Gallery Page must be responsive and resized for different size of screen.
+- Contact Page
+    * Background Image on Contact page loaded correctly.
+    * Tested Submit button on Contact page without any text in inputs to ensure that it provides the desired error of 'Please fill out this field' to appropriate required fields.
+    * Tested Email entry input by not entering a valid email address. This provides the desired error of 'Please include an @ in the email address'.
+    * Once user filled everything then click submit button it open outlook and able to send email.
+- Tested overall site colour.
+- Checked grammar and spelling throughout document.
+- Ran README text through [Online-Spellcheck](https://www.online-spellcheck.com/) to double-check on grammar and spelling.
+- Bugs
+    * Control the Image size in different size of screen.
+    * Fixed the navigation bar in different size of screen.
+    * Fixed the gap between two image in Gallery page.
 
 ## Validators
 #### HTML
@@ -187,10 +224,19 @@ Use the following link to view my live project: [OD'S Restaurant](https://vijusu
 ### Deploying to GitHub Pages
 To make my project viewable to others, I deployed my project to GitHub Pages with the following process:
 
-1. I opened the 'Settings' section of my project repository in GitHub.
-2. From there, I scrolled to the 'GitHub Pages' section.
-3. Here I selected 'master branch' as my Source.
-3. This deployed my project on GitHub Pages and allowed me to share the live website with others.
+1. Got to [Github](https://github.com/) and log in.
+2. Then go to [https://github.com/vijusuren/my-first-repo1](https://github.com/vijusuren/my-first-repo1).
+3. Click [Settings](https://github.com/vijusuren/my-first-repo1/settings) in the tab menu above the content area.
+3. Scroll to GitHub pages-section.
+4. Then choose Master Branch from the source dropdown menu.
+5. Click to confirm my selection, and then it's live.
+
+To Clone this project from the GitHub:
+
+1. Go to [https://github.com/vijusuren/my-first-repo1](https://github.com/vijusuren/my-first-repo1).
+2. Click the “Code”-button and copy the http-address.
+3. Open Gitpod and open a new terminal, terminal → new terminal.
+4. In the terminal, paste the code and press enter.
 
 More information about this process can be found on the following link: [Configuring a publishing source for your GitHub Pages site](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 ##### back to [top](#table-of-contents)
@@ -217,7 +263,7 @@ The content of this website refers to a Imagination company. The website purpose
 - Grid Image and overlay in Gallery page from [w3school](http://www.w3schools.com) and I customized for my site.
 - Header and Footer from Resume Mini Project [Code Institute](https://codeinstitute.net/) and I customized for my site.
 
-### Acknowledgements
+### Acknowledgments
 
 Thank you to the following people who helped with support, inspiration and guidance at different stages in the project:
 

@@ -155,8 +155,6 @@ This project consists of 4 pages accessible from both the navbar and the footer.
     * I hosted my deployed website to GitHub, with previous versions of my code stored through the commit history.
 - [Balsamiq](https://en.wikipedia.org/wiki/Balsamiq)
     * I used Balsamiq to make Wireframes for the project in skeleton stage.
-- [AutoPrefixer](http://autoprefixer.github.io/)
-    *Autoprefixer is used after testing the compatibility of the site for all browsers. After finding some fault in that, autoprefixer is used to fix it.
 
 ##### back to [top](#table-of-contents)
 ---

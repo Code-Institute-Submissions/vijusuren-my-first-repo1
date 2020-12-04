@@ -200,7 +200,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 - Bugs
     * Control the Image size in different size of screen.
     * Fixed the navigation bar in different size of screen.
-    * Fixed the gap between two image in Gallery page.
+    * Fixed the gap between two images in Gallery page.
 
 ## Validators
 #### HTML
@@ -261,7 +261,7 @@ The content of this website refers to a Imagination company. The website purpose
 - Grid Image and overlay in Gallery page from [w3school](http://www.w3schools.com) and I customized for my site.
 - Header and Footer from Resume Mini Project [Code Institute](https://codeinstitute.net/) and I customized for my site.
 
-### Acknowledgments
+### Acknowledgements
 
 Thank you to the following people who helped with support, inspiration and guidance at different stages in the project:
 

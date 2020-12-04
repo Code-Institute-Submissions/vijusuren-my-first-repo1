@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
-html{
+html {
 background-color: #dbcbbd;
 }
-body{
+body {
 font-family: 'Dancing Script', cursive;
 padding-top: 106px;
 }
 /*--------------------- Heading h2*/
-h2{
+h2 {
 font-family: 'Dancing Script', cursive;
 text-transform: uppercase;
 text-align: center;
 }
-#welcome, #dishes{
+#welcome, #dishes {
 text-align: center;
 }
 /*--------------------- Nav Bar*/
@@ -26,7 +26,7 @@ font-size: 200%;
 color: black;
 }
 .navbar .navbar-toggler {
-border: 0;
+border: 0px;
 }
 .active span {
 border-bottom: 2px solid #dbcbbd;

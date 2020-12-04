@@ -143,9 +143,9 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 
 ## Technologies Used
 
-- HTML5
+- [HTML5](https://en.wikipedia.org/wiki/HTML)
     * The language used to create and sort the content of the website.
-- CSS
+- [CSS](https://en.wikipedia.org/wiki/CSS)
     * The language used to style the HTML5 elements according to the design purposes.
 - [Bootstrap framework](https://getbootstrap.com/)
     * I decided to use Bootstrap's grid container system as I wanted to design my project with a 'mobile first' approach.

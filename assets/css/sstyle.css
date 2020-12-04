@@ -164,7 +164,7 @@ opacity: 1;
 /*--------------------- Form section in contact.html*/
 .form-section {
 clear: left;
-background: url("https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8xMFxcXC8yOTExMTUyM1xcXC9Eb29sYWxseS1JbnRlcmlvcnMtLmpwZ1wiLFwid2lkdGhcIjo5OTAsXCJoZWlnaHRcIjo1MjksXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5pbWFnZS5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nP3Y9MlwifSIsImhhc2giOiI3MjA2YTQ4YTAzZWMzYzEwYTk4ZDBmZjlmYWRhYjM4ZDBiMDI5OGRhIn0=/doolally-interiors.jpg");
+background-image: url('assets/image/contact-page.webp');
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;

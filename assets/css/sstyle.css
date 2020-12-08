@@ -16,6 +16,9 @@ text-align: center;
 #welcome, #dishes {
 text-align: center;
 }
+.menu-section a:hover {
+  text-decoration: none;
+}
 /*--------------------- Nav Bar*/
 .nav-item .nav-link {
 font-family: 'Dancing Script', cursive;

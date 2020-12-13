@@ -244,7 +244,7 @@ width: inherit;
 width: 50%;
 }
 .overlay {
-width: auto;
+width: 49%;
 }
 }
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
@@ -255,4 +255,9 @@ width: 100%;
 .overlay {
 width: 100%;
 }
+}
+@media screen and (max-width: 1200px){
+    .overlay {
+        width: 50%;
+    }
 }

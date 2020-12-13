@@ -235,8 +235,8 @@ margin: 0 auto;
 width: inherit;
 }
 .slides1{
-      display: none;
-    }
+display: none;
+}
 }
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 900px) {
@@ -257,7 +257,7 @@ width: 100%;
 }
 }
 @media screen and (min-width:1600px){
-    .overlay {
-        width: 15%;
-    }
+.overlay {
+width: 15%;
+}
 }

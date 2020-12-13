@@ -258,6 +258,6 @@ width: 100%;
 }
 @media screen and (max-width: 1200px){
     .overlay {
-        width: 50%;
+        width: 40%;
     }
 }

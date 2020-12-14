@@ -31,7 +31,7 @@
 This Website was created for the purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer Course.
 It was build using the knowledge gained from the HTML, CSS, and User Centric Design Modules.
 
-The live website can be found [here](https://vijusuren.github.io/my-first-repo1/index.html). To open on New Window [ctrl+click](https://vijusuren.github.io/my-first-repo1/index.html)
+The live website can be found [here](https://vijusuren.github.io/my-first-repo1/index.html){.new-tab}. To open on New Window [ctrl+click](https://vijusuren.github.io/my-first-repo1/index.html)
 
 The OD'S Restaurant Website was built by Own Imagination. The Items shown in this website are famous and delicious south Indian dishes.
 ***

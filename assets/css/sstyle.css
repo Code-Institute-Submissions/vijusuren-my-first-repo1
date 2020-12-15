@@ -75,6 +75,11 @@ background-color: #dbcbbd;
 height: 50vh;
 }
 .carousel-caption h5{
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
+.item1 h5{
   color: #000000;
   font-family: 'Oswald', sans-serif;
   font-size: 50px;

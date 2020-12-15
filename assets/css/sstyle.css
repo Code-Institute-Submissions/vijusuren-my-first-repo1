@@ -74,6 +74,11 @@ background-color: #dbcbbd;
 .carousel-item img{
 height: 50vh;
 }
+.carousel-caption h5{
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
 /*--------------------- Menu Section*/
 .menu-section{
 background-color: #eb8f8f;

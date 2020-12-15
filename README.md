@@ -49,7 +49,7 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 - In case user click Desserts in Home page will go to the Desserts section in Menu page.
 - In the Menu page user can view list of Items. All these dishes are incredibly famous and delicious in India.
 - List of Items in Main Courses:
-    * Idli
+    * Idli/Idiyappam
     * Pongal
     * Chapati
     * Dosai
@@ -58,13 +58,19 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
     * Veg-Noodles
     * Veg-Biryani
     * Veg-Pulao
+    * South Indian Thali
+    * Brinji Rice
+    * Utthapam / Aapam
 - List of Items in Starters:
     * Samosa
     * Masal Vadai
     * Onion Pakoda
     * Kuzhi Paniyaram
     * Bonda
-    * Baji
+    * Bajji
+    * Spring Rolls
+    * Chat Poori
+    * Pani Poori
     * Paneer-65
     * Babycorn fries
     * Paneer Tikka

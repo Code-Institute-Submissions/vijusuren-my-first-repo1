@@ -52,7 +52,9 @@ background-color: #dbcbbd !important;
 }
 .nav-item .nav-link{
   font-family: 'Dancing Script', Cursive;
-  font-size: 250%;
+  font-size: 200%;
+  line-height: 25px;
+  font-weight: bold;
 }
 .navbar .navbar-toggler {
     border: 0;

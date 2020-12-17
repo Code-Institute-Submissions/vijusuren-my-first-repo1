@@ -20,7 +20,7 @@ text-align: center;
   text-decoration: none;
 }
 /*--------------------- Nav Bar*/
-.nav-item .nav-link {
+/*.nav-item .nav-link {
 font-family: 'Dancing Script', cursive;
 letter-spacing: 2px;
 line-height: 25px;
@@ -44,6 +44,30 @@ body{
 background-color: #dbcbbd !important;
 }
 /*--------------------- Footer*/
+.nav-item {
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-align: right;
+}
+.nav-item .nav-link{
+  font-family: 'Dancing Script', Cursive;
+  font-size: 200%;
+}
+.navbar .navbar-toggler {
+    border: 0;
+}
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+}
+.active span {
+    border-bottom: 2px solid #dbcbbd;
+}
+#logo {
+font-family: 'Dancing Script', cursive;
+text-transform: uppercase;
+font-size:1.5rem;
+}
 .footer-heading {
 font-family: 'Oswald', sans-serif;
 font-weight: bold;
@@ -109,11 +133,11 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
-/*--------------------- Logo*/
+/*--------------------- Logo
 #logo{
 float: left;
 font-size: 250%;
-}
+}*/
 /*--------------------- Menu page content*/
 .column{
 float: left;

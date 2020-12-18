@@ -169,18 +169,7 @@ color: #eb8f8f;
 .tm-container, .tm-tab-link{
   margin-top:50px;
 }
-a {
-	color: #eb8f8f;
-    text-decoration: none!important;
-    transition: all 0.3s ease;
-}
 
-p {
-    line-height: 1.8;
-    margin-top: 0;
-}
-
-h2 { margin-top: 0; }
 
 .tm-container { padding: 30px; }
 

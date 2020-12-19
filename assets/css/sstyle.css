@@ -43,7 +43,7 @@ border-bottom: 2px solid #dbcbbd;
 body{
 background-color: #dbcbbd !important;
 }
-/*--------------------- Footer*/
+
 .nav-item {
     font-family: 'Dancing Script', cursive;
     letter-spacing: 2px;
@@ -70,6 +70,7 @@ font-family: 'Dancing Script', cursive;
 text-transform: uppercase;
 font-size:1.5rem;
 }
+/*--------------------- Footer*/
 .footer-heading {
 font-family: 'Oswald', sans-serif;
 font-weight: bold;
@@ -567,5 +568,5 @@ width: 15%;
     }
 
     .tm-drinks-nav > ul > li { margin-bottom: 10px; }
-    .tm-drinks-nav > ul > li > a { display: block; }
+    .tm-drinks-nav > ul > li > a { display: inline; }
 }

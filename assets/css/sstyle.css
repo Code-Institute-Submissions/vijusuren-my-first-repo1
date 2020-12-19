@@ -560,7 +560,7 @@ width: 15%;
         margin-bottom: 15px;
     }
 
-    .tm-drinks-nav { height: auto; }
+    .tm-drinks-nav { height: auto;display:none; }
 
     .tm-drinks-nav > ul {
         flex-direction: column;

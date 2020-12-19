@@ -91,7 +91,7 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 ### Libraries
 - [Bootstrap 4.5](https://getbootstrap.com) - is a framework for building responsive, mobile-first websites.
 
-- [Font](https://fonts.google.com/) - is a font application
+- [Google Font](https://fonts.google.com/) - is a font application
 
 ### Colour Scheme
 
@@ -127,9 +127,9 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 ### Menu
 
 - The user can see three menu sections in this page.
-- The first section having main courses.
-- Scrolling down, the user can see Starters section.
-- Last user can see Desserts section.
+- The lest section having list of tabs contains main courses,starters,desserts and beverages.
+- On the Right side user can see another tab of maincourse,starters and desserts.
+- While user can click on maincourser/starters/desserts/beverages can see list of items on specific section.
 
 ### Gallery
 
@@ -263,7 +263,7 @@ The content of this website refers to a Imagination company. The website purpose
 
 - Image slide in Home pages shows some of the famous Indian Items. I got from [Bootstrap.com](https://getbootstrap.com/docs/4.0/components/carousel/) and I customized code for my site.
 - [w3school](https://www.w3schools.com/) helps me to make Grid of Image in Gallery page.
-- Menu page from [w3school](https://www.w3schools.com) and I customized for my site.
+- Menu page got a template from [toolplate](https://www.tooplate.com/view/2121-wave-cafe),[w3school](https://www.w3schools.com) and I customized for my site.
 - Grid Image and overlay in Gallery page from [w3school](http://www.w3schools.com) and I customized for my site.
 - Header and Footer from Resume Mini Project [Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/f99dac3afcfe4b2caf8d576273aea3e6/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40f99dac3afcfe4b2caf8d576273aea3e6) and I customized for my site.
 

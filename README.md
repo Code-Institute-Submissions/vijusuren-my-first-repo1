@@ -44,7 +44,7 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 
 - This website will give an information to the user about the Indian Restaurant.
 - In a Home page, user can view Main Course, Starters and Desserts. As a user can click any one of this items will enter the Menu page.
-- If user can click Main Course it will go to Main course in menu page.
+- If user can click Main Course it will go to menu page.
 - In case user click Starters in Home page will go to the Starters section in Menu page.
 - In case user click Desserts in Home page will go to the Desserts section in Menu page.
 - In the Menu page user can view list of Items. All these dishes are incredibly famous and delicious in India.

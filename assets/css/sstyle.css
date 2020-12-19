@@ -510,6 +510,7 @@ margin-bottom: 15px;
 .tm-drinks-nav > ul {
 flex-direction: column;
 padding: 15px;
+display:none;
 }
 .tm-drinks-nav > ul > li { margin-bottom: 10px; }
 .tm-drinks-nav > ul > li > a { display: inline; }

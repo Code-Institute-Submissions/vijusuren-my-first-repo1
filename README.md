@@ -103,7 +103,7 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 
 - [Home Page Wireframe](assets/wireframe/Home_page.pdf)
 - [Menu Page Wireframe](assets/wireframe/Menu_page.pdf)
-- [Gallery Page Wireframe](assets/wireframe/Gallery_page.pdf)
+- [Gallery Page Wireframe](assets/wireframe/Gallery-page.pdf)
 - [Contact Page Wireframe](assets/wireframe/Contact_page.pdf)
 
 ##### back to [top](#table-of-contents)

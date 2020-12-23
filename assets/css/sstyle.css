@@ -225,24 +225,24 @@ font-size: 1.5rem;
 background-color: rgba(0,0,0,0.6);
 color: white;
 }
-.tm-drinks-nav > ul > li { display: inline-block; }
-.tm-drinks-nav > ul > li > a {
+.tm-course-nav > ul > li { display: inline-block; }
+.tm-course-nav > ul > li > a {
 color: white;
 font-size: 1.2rem;
 padding-top: 15px;
 padding-bottom: 5px;
 border-bottom: 3px solid transparent;
 }
-.tm-drinks-nav { height: 80px; }
+.tm-course-nav { height: 80px; }
 .tm-main { max-width: 660px; }
-.tm-drinks-nav > ul {
+.tm-course-nav > ul {
 display: flex;
 align-items: center;
 justify-content: space-around;
 height: 100%;
 }
-.tm-drinks-nav > ul > li a.active,
-.tm-drinks-nav > ul > li a:hover {
+.tm-course-nav > ul > li a.active,
+.tm-course-nav > ul > li a:hover {
 color: #eb8f8f;
 border-bottom: 4px solid #eb8f8f;
 }
@@ -506,12 +506,12 @@ margin-top: 40px;
 margin-right: 0;
 margin-bottom: 15px;
 }
-.tm-drinks-nav { height: auto; }
-.tm-drinks-nav > ul {
+.tm-course-nav { height: auto; }
+.tm-course-nav > ul {
 flex-direction: column;
 padding: 15px;
 display:none;
 }
-.tm-drinks-nav > ul > li { margin-bottom: 10px; }
-.tm-drinks-nav > ul > li > a { display: inline; }
+.tm-course-nav > ul > li { margin-bottom: 10px; }
+.tm-course-nav > ul > li > a { display: inline; }
 }

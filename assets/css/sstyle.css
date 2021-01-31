@@ -4,6 +4,7 @@ background-color: #dbcbbd;
 }
 body {
 font-family: 'Dancing Script', cursive;
+background-color: #dbcbbd !important;
 }
 /*--------------------- Heading h2*/
 h2 {
@@ -17,9 +18,7 @@ text-align: center;
 .menu-section a:hover {
 text-decoration: none;
 }
-body{
-background-color: #dbcbbd !important;
-}
+/*----------------------Nav bar*/
 .nav-item {
 font-family: 'Dancing Script', cursive;
 letter-spacing: 2px;
@@ -112,8 +111,17 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
+/*------------------------Menu Page*/
 .tm-container, .tm-tab-link{
 margin-top:50px;
+}
+.tm-left-inner nav > ul > li { list-style: none; }
+.tm-site-nav ul {
+         padding: 0;
+         margin: 0;
+         }
+.tm-page-link-a{
+    text-decoration: none!important;
 }
 .tm-container { padding: 30px; }
 .tm-row {
@@ -123,6 +131,9 @@ justify-content: space-between;
 .tm-left,
 .tm-right {
 width: 50%;
+}
+.tm-list-item-heading{
+    color:#eb8f8f;
 }
 .tm-left-inner { position: fixed; }
 .tm-site-header {

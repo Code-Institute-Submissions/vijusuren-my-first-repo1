@@ -17,27 +17,6 @@ text-align: center;
 .menu-section a:hover {
 text-decoration: none;
 }
-/*--------------------- Nav Bar*/
-/*.nav-item .nav-link {
-font-family: 'Dancing Script', cursive;
-letter-spacing: 2px;
-line-height: 25px;
-font-weight: bold;
-text-align: right;  
-font-size: 200%; 
-color: black;
-}
-.navbar .navbar-toggler {
-border: 0px;
-}
-.active span {
-border-bottom: 2px solid #dbcbbd;
-}
-.navbar-brand {
-color: black !important;
-font-size: 1.7rem;
-font-family: 'Dancing Script', cursive;
-}*/
 body{
 background-color: #dbcbbd !important;
 }
@@ -133,37 +112,6 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
-/*--------------------- Logo
-#logo{
-float: left;
-font-size: 250%;
-}*/
-/*--------------------- Menu page content
-.column{
-float: left;
-width: 33.33%;
-padding: 10%;
-height: 300px;
-}
-.row:after{
-content: "";
-display: table;
-clear: both;
-}
-.column h2{
-color: #fff
-}
-hr{
-border-top: 5px solid grey;
-}
-h2{
-text-align: center;
-top: 20%;
-color: black;
-}
-.column p{
-color: #eb8f8f;
-}*/
 .tm-container, .tm-tab-link{
 margin-top:50px;
 }

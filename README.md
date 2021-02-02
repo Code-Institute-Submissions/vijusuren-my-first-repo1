@@ -42,51 +42,35 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 
 ## User Stories
 
-- This website will give an information to the user about the Indian Restaurant.
-- In a Home page, user can view Main Course, Starters and Desserts. As a user can click any one of this items will enter the Menu page.
-- If user can click Main Course it will go to menu page.
-- In case user click Starters in Home page will go to the Starters section in Menu page.
-- In case user click Desserts in Home page will go to the Desserts section in Menu page.
-- In the Menu page user can view list of Items. All these dishes are incredibly famous and delicious in India.
-- List of Items in Main Courses:
-    * Idli/Idiyappam
-    * Pongal
-    * Chapati
-    * Dosai
-    * Parotta
-    * Poori
-    * Veg-Noodles
-    * Veg-Biryani
-    * Veg-Pulao
-    * South Indian Thali
-    * Brinji Rice
-    * Utthapam / Aapam
-- List of Items in Starters:
-    * Samosa
-    * Masal Vadai
-    * Onion Pakoda
-    * Kuzhi Paniyaram
-    * Bonda
-    * Bajji
-    * Spring Rolls
-    * Chat Poori
-    * Pani Poori
-    * Paneer-65
-    * Babycorn fries
-    * Paneer Tikka
-- List of Items in Desserts:
-    * Gulam Jamun
-    * Rasmalai
-    * Paneer Jamun
-    * Carrot Halwa
-    * Brownie
-    * Strawberry Milkshake
-    * Mango Lassie
-    * Watermelon Juice
-    * Ice Cream
-- In the Gallery page user can view all the Images of Dishes. When the mouse pointer on the Image display the Name of the dishes.
-- In the Contact page user can send the feedback through email.
-
+- The main reason to create this website is to develope my restaurant business and showcase to the people about varities of Indian dishes are available in my restaurnat.
+- Home Page
+    * As a user they can view the image of restaurant at top of the Home Page.
+    * As a user they can view the menu section in the middle of home page.
+    * As a user they can view three different catagery on the menu section are Maincourse,Starters and Desserts.
+    * As a user they can click Maincourse  will go to the Maincourse section in Menu page.
+    * As a user they can click Starters will go to the Starters section in Menu page.
+    * As a user they can click Desserts will go to the Desserts section in Menu page.
+    * As a user they can view slides image of dishes in the bottom of Home page.
+    * As a user they can view contact,social link and address of the restaurant in footer section.
+- Menu Page
+    * As a user they can view the list of menu items in the Menu page.
+    * As a user they can view the tab section on left side,list and price of the items on right side.
+    * As a user they can view the Maincourse,Starters,Desserts and Beverages on left side tab section.
+    * As a user they can view another tab section on right side contains Maincourse,Starters and Desserts.
+    * As a user they can click Maincourse on left side tab section will display list of Maincourse items,image of items and price for that items on right side.
+    * As a user they can click Maincourse on right side tab section will display list of Maincourse items,image of items and price for that items on right side.
+    * As a user they can click Starters on left side tab section will display list of Starters items,image of items and price for that items on right side.
+    * As a user they can click Starters on right side tab section will display list of Starters items,image of items and price for that items on right side.
+    * As a user they can click Desserts on left side tab section will display list of Desserts items,image of items and price for that items on right side.
+    * As a user they can click Desserts on right side tab section will display list of Desserts items,image of items and price for that items on right side.
+    * As a user they can click Beverages on left side tab section will display list of Beverages items,image of items and price for that items on right side.
+    * As a user they can view contact,social link and address of the restaurant in footer section.
+- Gallery Page
+    * As a user they can view the grid of images about dishes and overlay their name of the dishes.
+    * As a user they can view contact,social link and address of the restaurant in footer section.
+- Contact Page
+    * As a user they can view contact form in contact page.
+    * As a user they can view contact,social link and address of the restaurant in footer section.
 ## Design
 ### Libraries
 - [Bootstrap 4.5](https://getbootstrap.com) - is a framework for building responsive, mobile-first websites.
@@ -127,10 +111,12 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 
 ### Menu
 
-- The user can see three menu sections in this page.
-- The lest section having list of tabs contains main courses,starters,desserts and beverages.
-- On the Right side user can see another tab of maincourse,starters and desserts.
-- While user can click on maincourser/starters/desserts/beverages can see list of items on specific section.
+- As a user they can view tab section on left and list of items on right side of the screen.
+- The tab section having list of tabs contains main courses,starters,desserts and beverages.
+- As a user they can view another tab section on right side contains maincourse,starters and desserts.
+- As a user they can click any items from left side tab section will display the list,image and price of items on right side.
+- As a user they can click any items from right side tab like Maincourse,starters and Desserts will display the image,list and price of items on right side.
+
 
 ### Gallery
 
@@ -138,7 +124,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 
 ### Contact
 
-- The form's is used to get feedback from the user.
+- This page display the feedback forms.
 
 ## Features Left to Implement
 

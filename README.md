@@ -170,23 +170,53 @@ This project consists of 4 pages accessible from both the navbar and the footer.
     * Galaxy Fold. 
 - Home Page
     * Image of Restaurant on website must load correctly.
-    * Images on menu section must load correctly.
-    * Image slide on the Home page must load correctly.
-    * Social network links are direct to the correct page.
+        - [click here to view the result](assets/testing/homepage.png)
+    * I checked the menu section in the middle of home page and images of three different catagery on the menu section are Maincourse,Starters and Desserts are loaded correctly.
+        - [click here to view the result](assets/testing/homepage.png)
+    * I checked if I click Maincourse  will go to the Maincourse section in Menu page.
+        - [click here to view the result](assets/testing/menu1.png)
+    * I checked if I click Starters will go to the Starters section in Menu page.
+        - [click here to view the result](assets/testing/menu2.png)
+    * I checked if I click Desserts will go to the Desserts section in Menu page.
+        - [click here to view the result](assets/testing/menu3.png)
+    * I checked the slides image of dishes in the bottom of Home page are loaded correctly.
+        - [click here to view the result](assets/testing/slideimage.png)
+    * I checked footer section are loaded correctly and social network links are direct to the correct page.
+        - [click here to view the result](assets/testing/footer.png)
     * All elements on the Home page must be responsive and resized for different size of screen.
 - Menu Page
-    * Background Image on Menu page loaded correctly.
-    * Tested Function of link from home page to specific section in menu page.
+    * I checked in menu page tab section on left side,image,list and price of the items on right side are loaded correctly.
+        - [click here to view the result](assets/testing/menupage.png)
+    * I checked if I click Maincourse on left side tab section will display list of Maincourse items,image of items and price for that items on right side are loaded correctly.
+        - [click here to view the result](assets/testing/menupage1.png)
+    * I checked if I click Starters on left side tab section will display list of Starters items,image of items and price for that items on right side.
+        - [click here to view the result](assets/testing/menupage2.png)
+    * I checked if I click Desserts on left side tab section will display list of Desserts items,image of items and price for that items on right side.
+        - [click here to view the result](assets/testing/menupage3.png)
+    * I checked if I click Beverages on left side tab section will display list of Beverages items,image of items and price for that items on right side.
+        - [click here to view the result](assets/testing/menupage4.png)
+    * I checked if I click Maincourse on right side tab section will display list of Maincourse items,image of items and price for that items on right side.
+        - [click here to view the result](assets/testing/menu_1.png)
+    * I checked if I click Starters on right side tab section will display list of Starters items,image of items and price for that items on right side.
+        - [click here to view the result](assets/testing/menu_2.png)
+    * I checked if I click Starters on right side tab section will display list of Starters items,image of items and price for that items on right side.
+        - [click here to view the result](assets/testing/menu_3.png)
     * All elements on the Menu page must be responsive and resized for different size of screen.
 - Gallery Page
     * All Images on gallery page are loaded correctly.
+        - [click here to view the result](assets/testing/gallery.png)
     * Display the name of dishes are displayed correctly.
+        - [click here to view the result](assets/testing/gallery1.png)
     * All elements on the Gallery Page must be responsive and resized for different size of screen.
 - Contact Page
-    * Background Image on Contact page loaded correctly.
+    * Images and forms on Contact page are loaded correctly.
+        - [click here to view the result](assets/testing/contact.png)
     * Tested Submit button on Contact page without any text in inputs to ensure that it provides the desired error of 'Please fill out this field' to appropriate required fields.
+        - [click here to view the result](assets/testing/contact2.png)
+        - [click here to view the result](assets/testing/contact3.png)
     * Tested Email entry input by not entering a valid email address. This provides the desired error of 'Please include an @ in the email address'.
-    * Once user filled everything then click submit button it open outlook and able to send email.
+        - [click here to view the result](assets/testing/contact1.png)
+    * Once user filled everything then click submit.
 - Tested overall site colour.
 - Checked grammar and spelling throughout document.
 - Ran README text through [Online-Spellcheck](https://www.online-spellcheck.com/) to double-check on grammar and spelling.

@@ -6,6 +6,7 @@
 * [**Project overview**](#project-overview)
 * [**UX**](#ux-design)
   - [**User Stories**](#user-stories)
+  - [**User Goals**](#user-goals)
   - [**Design**](#design)
   - [**Libraries**](#libraries)
   - [**Colour Scheme**](#colour-scheme)
@@ -43,6 +44,16 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 ## User Stories
 
 - The main reason to create this website is to develope my restaurant business and showcase to the people about varities of Indian dishes are available in my restaurnat.
+- As a business owner
+    * I want to inform the visitors about the varities of Indian food available in our restaurant.
+    * I want to get the feedback from the visitors regarding our food and services.
+    * I want the visitors to be able to contact our restaurant via email/phone.
+- As a customer
+    * I want to view the food menu of the restaurant.
+    * I want to view the gallery section to get preview of menu items.
+    * I want to be able to provide feedback of the restaurant.
+    
+## User Goals
 - Home Page
     * As a user they can view the image of restaurant at top of the Home Page.
     * As a user they can view the menu section in the middle of home page.

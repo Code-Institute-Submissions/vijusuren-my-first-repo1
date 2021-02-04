@@ -52,7 +52,7 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
     * I want to view the food menu of the restaurant.
     * I want to view the gallery section to get preview of menu items.
     * I want to be able to provide feedback of the restaurant.
-    
+
 ## User Goals
 - Home Page
     * As a user they can view the image of restaurant at top of the Home Page.
@@ -82,6 +82,7 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 - Contact Page
     * As a user they can view contact form in contact page.
     * As a user they can view contact,social link and address of the restaurant in footer section.
+    
 ## Design
 ### Libraries
 - [Bootstrap 4.5](https://getbootstrap.com) - is a framework for building responsive, mobile-first websites.

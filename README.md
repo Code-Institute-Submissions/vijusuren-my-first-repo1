@@ -43,9 +43,9 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 
 ## User Stories
 
-- The main reason to create this website is to develope my restaurant business and showcase to the people about varities of Indian dishes are available in my restaurnat.
+- The main reason to create this website is to develop my restaurant business and showcase to the people about varieties of Indian dishes are available in my restaurnat.
 - As a business owner
-    * I want to inform the visitors about the varities of Indian food available in our restaurant.
+    * I want to inform the visitors about the varieties of Indian food available in our restaurant.
     * I want to get the feedback from the visitors regarding our food and services.
     * I want the visitors to be able to contact our restaurant via email/phone.
 - As a customer
@@ -57,7 +57,7 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 - Home Page
     * As a user they can view the image of restaurant at top of the Home Page.
     * As a user they can view the menu section in the middle of home page.
-    * As a user they can view three different catagery on the menu section are Maincourse,Starters and Desserts.
+    * As a user they can view three different category on the menu section are Maincourse,Starters and Desserts.
     * As a user they can click Maincourse  will go to the Maincourse section in Menu page.
     * As a user they can click Starters will go to the Starters section in Menu page.
     * As a user they can click Desserts will go to the Desserts section in Menu page.
@@ -87,7 +87,7 @@ The OD'S Restaurant Website was built by Own Imagination. The Items shown in thi
 ### Libraries
 - [Bootstrap 4.5](https://getbootstrap.com) - is a framework for building responsive, mobile-first websites.
 
-- [Google Font](https://fonts.google.com/) - is a font application
+- [Google Font](https://fonts.google.com/) - is a font application.
 
 ### Colour Scheme
 
@@ -183,7 +183,7 @@ This project consists of 4 pages accessible from both the navbar and the footer.
 - Home Page
     * Image of Restaurant on website must load correctly.
         - [click here to view the result](assets/testing/homepage.png)
-    * I checked the menu section in the middle of home page and images of three different catagery on the menu section are Maincourse,Starters and Desserts are loaded correctly.
+    * I checked the menu section in the middle of home page and images of three different category on the menu section are Maincourse,Starters and Desserts are loaded correctly.
         - [click here to view the result](assets/testing/homepage.png)
     * I checked if I click Maincourse  will go to the Maincourse section in Menu page.
         - [click here to view the result](assets/testing/menu1.png)
